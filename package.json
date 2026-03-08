@@ -1,0 +1,11 @@
+{
+  "name": "json-modifier",
+  "version": "1.0.0",
+  "description": "Minimal script to replace JSON field by id",
+  "main": "src/merge-json.js",
+  "scripts": {
+    "merge": "node src/merge-json.js examples/base.json examples/patch.json examples/result.json value"
+  },
+  "keywords": ["json", "merge", "nodejs"],
+  "license": "MIT"
+}

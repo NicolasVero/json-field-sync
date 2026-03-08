@@ -1,0 +1,17 @@
+[
+  {
+    "id": 2,
+    "value": 999,
+    "status": "published"
+  },
+  {
+    "id": 3,
+    "value": 111,
+    "status": "archived"
+  },
+  {
+    "id": 4,
+    "value": 222,
+    "status": "new"
+  }
+]
