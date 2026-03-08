@@ -17,3 +17,7 @@ Example with custom key (like exercise_id):
 ```bash
 node src/merge-json.js base.json patch.json result.json value exercise_id
 ```
+
+## Logs
+
+Each run writes logs in `/logs` with the format `merge_filename.log`

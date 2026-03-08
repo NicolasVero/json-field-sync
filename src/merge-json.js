@@ -1,5 +1,5 @@
 const fs = require("fs/promises");
-const { logReplacement, logSuccess, logWarningUsage, logWarning, logError } = require("./logger");
+const { setLogFileFromOutput, logReplacement, logSuccess, logWarningUsage, logWarning, logError } = require("./logger");
 
 function parseJsonSafe(raw) {
 	const cleaned = raw.replace(/^\uFEFF/, "");
@@ -13,6 +13,8 @@ async function main() {
 		logWarningUsage();
 		process.exit(1);
 	}
+
+	setLogFileFromOutput(outFile);
 	
 	const base = parseJsonSafe(await fs.readFile(baseFile, "utf8"));
 	const patch = parseJsonSafe(await fs.readFile(patchFile, "utf8"));
