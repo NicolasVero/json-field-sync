@@ -1,30 +1,46 @@
 const fs = require("fs/promises");
-const { logReplacement, logSuccess, logWarningUsage, logError } = require("./logger");
+const { logReplacement, logSuccess, logWarningUsage, logWarning, logError } = require("./logger");
+
+function parseJsonSafe(raw) {
+	const cleaned = raw.replace(/^\uFEFF/, "");
+	return JSON.parse(cleaned);
+}
 
 async function main() {
-	const [baseFile, patchFile, outFile, field = "value"] = process.argv.slice(2);
+	const [baseFile, patchFile, outFile, field, matchKey = "id"] = process.argv.slice(2);
 	
-	if (!baseFile || !patchFile || !outFile) {
+	if (!baseFile || !patchFile || !outFile || !field) {
 		logWarningUsage();
 		process.exit(1);
 	}
 	
-	const base = JSON.parse(await fs.readFile(baseFile, "utf8"));
-	const patch = JSON.parse(await fs.readFile(patchFile, "utf8"));
+	const base = parseJsonSafe(await fs.readFile(baseFile, "utf8"));
+	const patch = parseJsonSafe(await fs.readFile(patchFile, "utf8"));
 	
-	const patchById = new Map(patch.map((item) => [item.id, item]));
+	const patchById = new Map(
+		patch
+			.filter((item) => Object.prototype.hasOwnProperty.call(item, matchKey))
+			.map((item) => [item[matchKey], item])
+	);
+
+	let replacements = 0;
 	
 	const result = base.map((item) => {
-		const match = patchById.get(item.id);
+		const keyValue = item[matchKey];
+		const match = patchById.get(keyValue);
 		if (!match || !(field in match)) {
 			return item;
 		}
 
-		logReplacement(item.id, item[field], match[field], field);
+		replacements += 1;
+		logReplacement(keyValue, item[field], match[field], field, matchKey);
 		return { ...item, [field]: match[field] };
 	});
 	
 	await fs.writeFile(outFile, `${JSON.stringify(result, null, 2)}\n`, "utf8");
+	if (replacements === 0) {
+		logWarning(`0 remplacement. Check 'field' (${field}) and 'matchKey' (${matchKey}).`);
+	}
 	logSuccess(outFile);
 }
 

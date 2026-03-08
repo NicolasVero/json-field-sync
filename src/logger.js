@@ -7,9 +7,9 @@ const color = {
     red: "\x1b[31m",
 };
 
-function logReplacement(id, oldValue, newValue, field) {
+function logReplacement(keyValue, oldValue, newValue, field, matchKey) {
     console.log(
-        `${color.cyan}id ${id}${color.reset}: ${color.yellow}"${String(oldValue)}"${color.reset} -> ${color.green}"${String(newValue)}"${color.reset} on field ${color.orange}${String(field)}${color.reset}`
+        `${color.cyan}${String(matchKey)} ${String(keyValue)}${color.reset}: ${color.yellow}"${String(oldValue)}"${color.reset} -> ${color.green}"${String(newValue)}"${color.reset} on field ${color.orange}${String(field)}${color.reset}`
     );
 }
 
@@ -18,7 +18,11 @@ function logSuccess(outputPath) {
 }
 
 function logWarningUsage() {
-    console.log(`${color.orange}Usage:${color.reset} node src/merge-json.js <base.json> <patch.json> <out.json> [field]`);
+    console.log(`${color.orange}Usage:${color.reset} node src/merge-json.js <base.json> <patch.json> <out.json> <field> [matchKey]`);
+}
+
+function logWarning(message) {
+    console.log(`${color.orange}Warning:${color.reset} ${String(message)}`);
 }
 
 function logError(error) {
@@ -29,5 +33,6 @@ module.exports = {
     logReplacement,
     logSuccess,
     logWarningUsage,
+    logWarning,
     logError,
 };

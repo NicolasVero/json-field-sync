@@ -1,0 +1,14 @@
+[
+  { "id": 901, "exercice_id": "EXO-002", "value": 120, "statut": "published" },
+  { "id": 902, "exercice_id": "EXO-004", "value": 160, "statut": "published" },
+  { "id": 903, "exercice_id": "EXO-006", "value": 200, "statut": "published" },
+  { "id": 904, "exercice_id": "EXO-008", "value": 240, "statut": "published" },
+  { "id": 905, "exercice_id": "EXO-010", "value": 280, "statut": "published" },
+  { "id": 906, "exercice_id": "EXO-012", "value": 320, "statut": "review" },
+  { "id": 907, "exercice_id": "EXO-014", "value": 360, "statut": "review" },
+  { "id": 908, "exercice_id": "EXO-016", "value": 400, "statut": "review" },
+  { "id": 909, "exercice_id": "EXO-018", "value": 440, "statut": "review" },
+  { "id": 910, "exercice_id": "EXO-020", "value": 480, "statut": "archived" },
+  { "id": 911, "exercice_id": "EXO-021", "value": 500, "statut": "new" },
+  { "id": 912, "exercice_id": "EXO-022", "value": 520, "statut": "new" }
+]

@@ -1,0 +1,22 @@
+[
+  { "id": 1, "exercice_id": "EXO-001", "titre": "Addition simple", "value": 10, "difficulte": "easy", "statut": "draft" },
+  { "id": 2, "exercice_id": "EXO-002", "titre": "Soustraction simple", "value": 12, "difficulte": "easy", "statut": "draft" },
+  { "id": 3, "exercice_id": "EXO-003", "titre": "Multiplication simple", "value": 14, "difficulte": "easy", "statut": "draft" },
+  { "id": 4, "exercice_id": "EXO-004", "titre": "Division simple", "value": 16, "difficulte": "easy", "statut": "draft" },
+  { "id": 5, "exercice_id": "EXO-005", "titre": "Fractions niveau 1", "value": 18, "difficulte": "medium", "statut": "draft" },
+  { "id": 6, "exercice_id": "EXO-006", "titre": "Fractions niveau 2", "value": 20, "difficulte": "medium", "statut": "draft" },
+  { "id": 7, "exercice_id": "EXO-007", "titre": "Puissances niveau 1", "value": 22, "difficulte": "medium", "statut": "draft" },
+  { "id": 8, "exercice_id": "EXO-008", "titre": "Puissances niveau 2", "value": 24, "difficulte": "medium", "statut": "draft" },
+  { "id": 9, "exercice_id": "EXO-009", "titre": "Equations niveau 1", "value": 26, "difficulte": "medium", "statut": "draft" },
+  { "id": 10, "exercice_id": "EXO-010", "titre": "Equations niveau 2", "value": 28, "difficulte": "medium", "statut": "draft" },
+  { "id": 11, "exercice_id": "EXO-011", "titre": "Geometrie plane 1", "value": 30, "difficulte": "hard", "statut": "draft" },
+  { "id": 12, "exercice_id": "EXO-012", "titre": "Geometrie plane 2", "value": 32, "difficulte": "hard", "statut": "draft" },
+  { "id": 13, "exercice_id": "EXO-013", "titre": "Trigonometrie 1", "value": 34, "difficulte": "hard", "statut": "draft" },
+  { "id": 14, "exercice_id": "EXO-014", "titre": "Trigonometrie 2", "value": 36, "difficulte": "hard", "statut": "draft" },
+  { "id": 15, "exercice_id": "EXO-015", "titre": "Statistiques 1", "value": 38, "difficulte": "hard", "statut": "draft" },
+  { "id": 16, "exercice_id": "EXO-016", "titre": "Statistiques 2", "value": 40, "difficulte": "hard", "statut": "draft" },
+  { "id": 17, "exercice_id": "EXO-017", "titre": "Probabilites 1", "value": 42, "difficulte": "hard", "statut": "draft" },
+  { "id": 18, "exercice_id": "EXO-018", "titre": "Probabilites 2", "value": 44, "difficulte": "hard", "statut": "draft" },
+  { "id": 19, "exercice_id": "EXO-019", "titre": "Matrices 1", "value": 46, "difficulte": "hard", "statut": "draft" },
+  { "id": 20, "exercice_id": "EXO-020", "titre": "Matrices 2", "value": 48, "difficulte": "hard", "statut": "draft" }
+]

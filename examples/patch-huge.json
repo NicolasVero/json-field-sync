@@ -1,0 +1,5402 @@
+﻿[
+    {
+        "id":  2001,
+        "exercice_id":  100002,
+        "value":  5001,
+        "status":  "archived"
+    },
+    {
+        "id":  2002,
+        "exercice_id":  100004,
+        "value":  5002,
+        "status":  "published"
+    },
+    {
+        "id":  2003,
+        "exercice_id":  100006,
+        "value":  5003,
+        "status":  "archived"
+    },
+    {
+        "id":  2004,
+        "exercice_id":  100008,
+        "value":  5004,
+        "status":  "published"
+    },
+    {
+        "id":  2005,
+        "exercice_id":  100010,
+        "value":  5005,
+        "status":  "archived"
+    },
+    {
+        "id":  2006,
+        "exercice_id":  100012,
+        "value":  5006,
+        "status":  "published"
+    },
+    {
+        "id":  2007,
+        "exercice_id":  100014,
+        "value":  5007,
+        "status":  "archived"
+    },
+    {
+        "id":  2008,
+        "exercice_id":  100016,
+        "value":  5008,
+        "status":  "published"
+    },
+    {
+        "id":  2009,
+        "exercice_id":  100018,
+        "value":  5009,
+        "status":  "archived"
+    },
+    {
+        "id":  2010,
+        "exercice_id":  100020,
+        "value":  5010,
+        "status":  "published"
+    },
+    {
+        "id":  2011,
+        "exercice_id":  100022,
+        "value":  5011,
+        "status":  "archived"
+    },
+    {
+        "id":  2012,
+        "exercice_id":  100024,
+        "value":  5012,
+        "status":  "published"
+    },
+    {
+        "id":  2013,
+        "exercice_id":  100026,
+        "value":  5013,
+        "status":  "archived"
+    },
+    {
+        "id":  2014,
+        "exercice_id":  100028,
+        "value":  5014,
+        "status":  "published"
+    },
+    {
+        "id":  2015,
+        "exercice_id":  100030,
+        "value":  5015,
+        "status":  "archived"
+    },
+    {
+        "id":  2016,
+        "exercice_id":  100032,
+        "value":  5016,
+        "status":  "published"
+    },
+    {
+        "id":  2017,
+        "exercice_id":  100034,
+        "value":  5017,
+        "status":  "archived"
+    },
+    {
+        "id":  2018,
+        "exercice_id":  100036,
+        "value":  5018,
+        "status":  "published"
+    },
+    {
+        "id":  2019,
+        "exercice_id":  100038,
+        "value":  5019,
+        "status":  "archived"
+    },
+    {
+        "id":  2020,
+        "exercice_id":  100040,
+        "value":  5020,
+        "status":  "published"
+    },
+    {
+        "id":  2021,
+        "exercice_id":  100042,
+        "value":  5021,
+        "status":  "archived"
+    },
+    {
+        "id":  2022,
+        "exercice_id":  100044,
+        "value":  5022,
+        "status":  "published"
+    },
+    {
+        "id":  2023,
+        "exercice_id":  100046,
+        "value":  5023,
+        "status":  "archived"
+    },
+    {
+        "id":  2024,
+        "exercice_id":  100048,
+        "value":  5024,
+        "status":  "published"
+    },
+    {
+        "id":  2025,
+        "exercice_id":  100050,
+        "value":  5025,
+        "status":  "archived"
+    },
+    {
+        "id":  2026,
+        "exercice_id":  100052,
+        "value":  5026,
+        "status":  "published"
+    },
+    {
+        "id":  2027,
+        "exercice_id":  100054,
+        "value":  5027,
+        "status":  "archived"
+    },
+    {
+        "id":  2028,
+        "exercice_id":  100056,
+        "value":  5028,
+        "status":  "published"
+    },
+    {
+        "id":  2029,
+        "exercice_id":  100058,
+        "value":  5029,
+        "status":  "archived"
+    },
+    {
+        "id":  2030,
+        "exercice_id":  100060,
+        "value":  5030,
+        "status":  "published"
+    },
+    {
+        "id":  2031,
+        "exercice_id":  100062,
+        "value":  5031,
+        "status":  "archived"
+    },
+    {
+        "id":  2032,
+        "exercice_id":  100064,
+        "value":  5032,
+        "status":  "published"
+    },
+    {
+        "id":  2033,
+        "exercice_id":  100066,
+        "value":  5033,
+        "status":  "archived"
+    },
+    {
+        "id":  2034,
+        "exercice_id":  100068,
+        "value":  5034,
+        "status":  "published"
+    },
+    {
+        "id":  2035,
+        "exercice_id":  100070,
+        "value":  5035,
+        "status":  "archived"
+    },
+    {
+        "id":  2036,
+        "exercice_id":  100072,
+        "value":  5036,
+        "status":  "published"
+    },
+    {
+        "id":  2037,
+        "exercice_id":  100074,
+        "value":  5037,
+        "status":  "archived"
+    },
+    {
+        "id":  2038,
+        "exercice_id":  100076,
+        "value":  5038,
+        "status":  "published"
+    },
+    {
+        "id":  2039,
+        "exercice_id":  100078,
+        "value":  5039,
+        "status":  "archived"
+    },
+    {
+        "id":  2040,
+        "exercice_id":  100080,
+        "value":  5040,
+        "status":  "published"
+    },
+    {
+        "id":  2041,
+        "exercice_id":  100082,
+        "value":  5041,
+        "status":  "archived"
+    },
+    {
+        "id":  2042,
+        "exercice_id":  100084,
+        "value":  5042,
+        "status":  "published"
+    },
+    {
+        "id":  2043,
+        "exercice_id":  100086,
+        "value":  5043,
+        "status":  "archived"
+    },
+    {
+        "id":  2044,
+        "exercice_id":  100088,
+        "value":  5044,
+        "status":  "published"
+    },
+    {
+        "id":  2045,
+        "exercice_id":  100090,
+        "value":  5045,
+        "status":  "archived"
+    },
+    {
+        "id":  2046,
+        "exercice_id":  100092,
+        "value":  5046,
+        "status":  "published"
+    },
+    {
+        "id":  2047,
+        "exercice_id":  100094,
+        "value":  5047,
+        "status":  "archived"
+    },
+    {
+        "id":  2048,
+        "exercice_id":  100096,
+        "value":  5048,
+        "status":  "published"
+    },
+    {
+        "id":  2049,
+        "exercice_id":  100098,
+        "value":  5049,
+        "status":  "archived"
+    },
+    {
+        "id":  2050,
+        "exercice_id":  100100,
+        "value":  5050,
+        "status":  "published"
+    },
+    {
+        "id":  2051,
+        "exercice_id":  100102,
+        "value":  5051,
+        "status":  "archived"
+    },
+    {
+        "id":  2052,
+        "exercice_id":  100104,
+        "value":  5052,
+        "status":  "published"
+    },
+    {
+        "id":  2053,
+        "exercice_id":  100106,
+        "value":  5053,
+        "status":  "archived"
+    },
+    {
+        "id":  2054,
+        "exercice_id":  100108,
+        "value":  5054,
+        "status":  "published"
+    },
+    {
+        "id":  2055,
+        "exercice_id":  100110,
+        "value":  5055,
+        "status":  "archived"
+    },
+    {
+        "id":  2056,
+        "exercice_id":  100112,
+        "value":  5056,
+        "status":  "published"
+    },
+    {
+        "id":  2057,
+        "exercice_id":  100114,
+        "value":  5057,
+        "status":  "archived"
+    },
+    {
+        "id":  2058,
+        "exercice_id":  100116,
+        "value":  5058,
+        "status":  "published"
+    },
+    {
+        "id":  2059,
+        "exercice_id":  100118,
+        "value":  5059,
+        "status":  "archived"
+    },
+    {
+        "id":  2060,
+        "exercice_id":  100120,
+        "value":  5060,
+        "status":  "published"
+    },
+    {
+        "id":  2061,
+        "exercice_id":  100122,
+        "value":  5061,
+        "status":  "archived"
+    },
+    {
+        "id":  2062,
+        "exercice_id":  100124,
+        "value":  5062,
+        "status":  "published"
+    },
+    {
+        "id":  2063,
+        "exercice_id":  100126,
+        "value":  5063,
+        "status":  "archived"
+    },
+    {
+        "id":  2064,
+        "exercice_id":  100128,
+        "value":  5064,
+        "status":  "published"
+    },
+    {
+        "id":  2065,
+        "exercice_id":  100130,
+        "value":  5065,
+        "status":  "archived"
+    },
+    {
+        "id":  2066,
+        "exercice_id":  100132,
+        "value":  5066,
+        "status":  "published"
+    },
+    {
+        "id":  2067,
+        "exercice_id":  100134,
+        "value":  5067,
+        "status":  "archived"
+    },
+    {
+        "id":  2068,
+        "exercice_id":  100136,
+        "value":  5068,
+        "status":  "published"
+    },
+    {
+        "id":  2069,
+        "exercice_id":  100138,
+        "value":  5069,
+        "status":  "archived"
+    },
+    {
+        "id":  2070,
+        "exercice_id":  100140,
+        "value":  5070,
+        "status":  "published"
+    },
+    {
+        "id":  2071,
+        "exercice_id":  100142,
+        "value":  5071,
+        "status":  "archived"
+    },
+    {
+        "id":  2072,
+        "exercice_id":  100144,
+        "value":  5072,
+        "status":  "published"
+    },
+    {
+        "id":  2073,
+        "exercice_id":  100146,
+        "value":  5073,
+        "status":  "archived"
+    },
+    {
+        "id":  2074,
+        "exercice_id":  100148,
+        "value":  5074,
+        "status":  "published"
+    },
+    {
+        "id":  2075,
+        "exercice_id":  100150,
+        "value":  5075,
+        "status":  "archived"
+    },
+    {
+        "id":  2076,
+        "exercice_id":  100152,
+        "value":  5076,
+        "status":  "published"
+    },
+    {
+        "id":  2077,
+        "exercice_id":  100154,
+        "value":  5077,
+        "status":  "archived"
+    },
+    {
+        "id":  2078,
+        "exercice_id":  100156,
+        "value":  5078,
+        "status":  "published"
+    },
+    {
+        "id":  2079,
+        "exercice_id":  100158,
+        "value":  5079,
+        "status":  "archived"
+    },
+    {
+        "id":  2080,
+        "exercice_id":  100160,
+        "value":  5080,
+        "status":  "published"
+    },
+    {
+        "id":  2081,
+        "exercice_id":  100162,
+        "value":  5081,
+        "status":  "archived"
+    },
+    {
+        "id":  2082,
+        "exercice_id":  100164,
+        "value":  5082,
+        "status":  "published"
+    },
+    {
+        "id":  2083,
+        "exercice_id":  100166,
+        "value":  5083,
+        "status":  "archived"
+    },
+    {
+        "id":  2084,
+        "exercice_id":  100168,
+        "value":  5084,
+        "status":  "published"
+    },
+    {
+        "id":  2085,
+        "exercice_id":  100170,
+        "value":  5085,
+        "status":  "archived"
+    },
+    {
+        "id":  2086,
+        "exercice_id":  100172,
+        "value":  5086,
+        "status":  "published"
+    },
+    {
+        "id":  2087,
+        "exercice_id":  100174,
+        "value":  5087,
+        "status":  "archived"
+    },
+    {
+        "id":  2088,
+        "exercice_id":  100176,
+        "value":  5088,
+        "status":  "published"
+    },
+    {
+        "id":  2089,
+        "exercice_id":  100178,
+        "value":  5089,
+        "status":  "archived"
+    },
+    {
+        "id":  2090,
+        "exercice_id":  100180,
+        "value":  5090,
+        "status":  "published"
+    },
+    {
+        "id":  2091,
+        "exercice_id":  100182,
+        "value":  5091,
+        "status":  "archived"
+    },
+    {
+        "id":  2092,
+        "exercice_id":  100184,
+        "value":  5092,
+        "status":  "published"
+    },
+    {
+        "id":  2093,
+        "exercice_id":  100186,
+        "value":  5093,
+        "status":  "archived"
+    },
+    {
+        "id":  2094,
+        "exercice_id":  100188,
+        "value":  5094,
+        "status":  "published"
+    },
+    {
+        "id":  2095,
+        "exercice_id":  100190,
+        "value":  5095,
+        "status":  "archived"
+    },
+    {
+        "id":  2096,
+        "exercice_id":  100192,
+        "value":  5096,
+        "status":  "published"
+    },
+    {
+        "id":  2097,
+        "exercice_id":  100194,
+        "value":  5097,
+        "status":  "archived"
+    },
+    {
+        "id":  2098,
+        "exercice_id":  100196,
+        "value":  5098,
+        "status":  "published"
+    },
+    {
+        "id":  2099,
+        "exercice_id":  100198,
+        "value":  5099,
+        "status":  "archived"
+    },
+    {
+        "id":  2100,
+        "exercice_id":  100200,
+        "value":  5100,
+        "status":  "published"
+    },
+    {
+        "id":  2101,
+        "exercice_id":  100202,
+        "value":  5101,
+        "status":  "archived"
+    },
+    {
+        "id":  2102,
+        "exercice_id":  100204,
+        "value":  5102,
+        "status":  "published"
+    },
+    {
+        "id":  2103,
+        "exercice_id":  100206,
+        "value":  5103,
+        "status":  "archived"
+    },
+    {
+        "id":  2104,
+        "exercice_id":  100208,
+        "value":  5104,
+        "status":  "published"
+    },
+    {
+        "id":  2105,
+        "exercice_id":  100210,
+        "value":  5105,
+        "status":  "archived"
+    },
+    {
+        "id":  2106,
+        "exercice_id":  100212,
+        "value":  5106,
+        "status":  "published"
+    },
+    {
+        "id":  2107,
+        "exercice_id":  100214,
+        "value":  5107,
+        "status":  "archived"
+    },
+    {
+        "id":  2108,
+        "exercice_id":  100216,
+        "value":  5108,
+        "status":  "published"
+    },
+    {
+        "id":  2109,
+        "exercice_id":  100218,
+        "value":  5109,
+        "status":  "archived"
+    },
+    {
+        "id":  2110,
+        "exercice_id":  100220,
+        "value":  5110,
+        "status":  "published"
+    },
+    {
+        "id":  2111,
+        "exercice_id":  100222,
+        "value":  5111,
+        "status":  "archived"
+    },
+    {
+        "id":  2112,
+        "exercice_id":  100224,
+        "value":  5112,
+        "status":  "published"
+    },
+    {
+        "id":  2113,
+        "exercice_id":  100226,
+        "value":  5113,
+        "status":  "archived"
+    },
+    {
+        "id":  2114,
+        "exercice_id":  100228,
+        "value":  5114,
+        "status":  "published"
+    },
+    {
+        "id":  2115,
+        "exercice_id":  100230,
+        "value":  5115,
+        "status":  "archived"
+    },
+    {
+        "id":  2116,
+        "exercice_id":  100232,
+        "value":  5116,
+        "status":  "published"
+    },
+    {
+        "id":  2117,
+        "exercice_id":  100234,
+        "value":  5117,
+        "status":  "archived"
+    },
+    {
+        "id":  2118,
+        "exercice_id":  100236,
+        "value":  5118,
+        "status":  "published"
+    },
+    {
+        "id":  2119,
+        "exercice_id":  100238,
+        "value":  5119,
+        "status":  "archived"
+    },
+    {
+        "id":  2120,
+        "exercice_id":  100240,
+        "value":  5120,
+        "status":  "published"
+    },
+    {
+        "id":  2121,
+        "exercice_id":  100242,
+        "value":  5121,
+        "status":  "archived"
+    },
+    {
+        "id":  2122,
+        "exercice_id":  100244,
+        "value":  5122,
+        "status":  "published"
+    },
+    {
+        "id":  2123,
+        "exercice_id":  100246,
+        "value":  5123,
+        "status":  "archived"
+    },
+    {
+        "id":  2124,
+        "exercice_id":  100248,
+        "value":  5124,
+        "status":  "published"
+    },
+    {
+        "id":  2125,
+        "exercice_id":  100250,
+        "value":  5125,
+        "status":  "archived"
+    },
+    {
+        "id":  2126,
+        "exercice_id":  100252,
+        "value":  5126,
+        "status":  "published"
+    },
+    {
+        "id":  2127,
+        "exercice_id":  100254,
+        "value":  5127,
+        "status":  "archived"
+    },
+    {
+        "id":  2128,
+        "exercice_id":  100256,
+        "value":  5128,
+        "status":  "published"
+    },
+    {
+        "id":  2129,
+        "exercice_id":  100258,
+        "value":  5129,
+        "status":  "archived"
+    },
+    {
+        "id":  2130,
+        "exercice_id":  100260,
+        "value":  5130,
+        "status":  "published"
+    },
+    {
+        "id":  2131,
+        "exercice_id":  100262,
+        "value":  5131,
+        "status":  "archived"
+    },
+    {
+        "id":  2132,
+        "exercice_id":  100264,
+        "value":  5132,
+        "status":  "published"
+    },
+    {
+        "id":  2133,
+        "exercice_id":  100266,
+        "value":  5133,
+        "status":  "archived"
+    },
+    {
+        "id":  2134,
+        "exercice_id":  100268,
+        "value":  5134,
+        "status":  "published"
+    },
+    {
+        "id":  2135,
+        "exercice_id":  100270,
+        "value":  5135,
+        "status":  "archived"
+    },
+    {
+        "id":  2136,
+        "exercice_id":  100272,
+        "value":  5136,
+        "status":  "published"
+    },
+    {
+        "id":  2137,
+        "exercice_id":  100274,
+        "value":  5137,
+        "status":  "archived"
+    },
+    {
+        "id":  2138,
+        "exercice_id":  100276,
+        "value":  5138,
+        "status":  "published"
+    },
+    {
+        "id":  2139,
+        "exercice_id":  100278,
+        "value":  5139,
+        "status":  "archived"
+    },
+    {
+        "id":  2140,
+        "exercice_id":  100280,
+        "value":  5140,
+        "status":  "published"
+    },
+    {
+        "id":  2141,
+        "exercice_id":  100282,
+        "value":  5141,
+        "status":  "archived"
+    },
+    {
+        "id":  2142,
+        "exercice_id":  100284,
+        "value":  5142,
+        "status":  "published"
+    },
+    {
+        "id":  2143,
+        "exercice_id":  100286,
+        "value":  5143,
+        "status":  "archived"
+    },
+    {
+        "id":  2144,
+        "exercice_id":  100288,
+        "value":  5144,
+        "status":  "published"
+    },
+    {
+        "id":  2145,
+        "exercice_id":  100290,
+        "value":  5145,
+        "status":  "archived"
+    },
+    {
+        "id":  2146,
+        "exercice_id":  100292,
+        "value":  5146,
+        "status":  "published"
+    },
+    {
+        "id":  2147,
+        "exercice_id":  100294,
+        "value":  5147,
+        "status":  "archived"
+    },
+    {
+        "id":  2148,
+        "exercice_id":  100296,
+        "value":  5148,
+        "status":  "published"
+    },
+    {
+        "id":  2149,
+        "exercice_id":  100298,
+        "value":  5149,
+        "status":  "archived"
+    },
+    {
+        "id":  2150,
+        "exercice_id":  100000,
+        "value":  5150,
+        "status":  "published"
+    },
+    {
+        "id":  2151,
+        "exercice_id":  100002,
+        "value":  5151,
+        "status":  "archived"
+    },
+    {
+        "id":  2152,
+        "exercice_id":  100004,
+        "value":  5152,
+        "status":  "published"
+    },
+    {
+        "id":  2153,
+        "exercice_id":  100006,
+        "value":  5153,
+        "status":  "archived"
+    },
+    {
+        "id":  2154,
+        "exercice_id":  100008,
+        "value":  5154,
+        "status":  "published"
+    },
+    {
+        "id":  2155,
+        "exercice_id":  100010,
+        "value":  5155,
+        "status":  "archived"
+    },
+    {
+        "id":  2156,
+        "exercice_id":  100012,
+        "value":  5156,
+        "status":  "published"
+    },
+    {
+        "id":  2157,
+        "exercice_id":  100014,
+        "value":  5157,
+        "status":  "archived"
+    },
+    {
+        "id":  2158,
+        "exercice_id":  100016,
+        "value":  5158,
+        "status":  "published"
+    },
+    {
+        "id":  2159,
+        "exercice_id":  100018,
+        "value":  5159,
+        "status":  "archived"
+    },
+    {
+        "id":  2160,
+        "exercice_id":  100020,
+        "value":  5160,
+        "status":  "published"
+    },
+    {
+        "id":  2161,
+        "exercice_id":  100022,
+        "value":  5161,
+        "status":  "archived"
+    },
+    {
+        "id":  2162,
+        "exercice_id":  100024,
+        "value":  5162,
+        "status":  "published"
+    },
+    {
+        "id":  2163,
+        "exercice_id":  100026,
+        "value":  5163,
+        "status":  "archived"
+    },
+    {
+        "id":  2164,
+        "exercice_id":  100028,
+        "value":  5164,
+        "status":  "published"
+    },
+    {
+        "id":  2165,
+        "exercice_id":  100030,
+        "value":  5165,
+        "status":  "archived"
+    },
+    {
+        "id":  2166,
+        "exercice_id":  100032,
+        "value":  5166,
+        "status":  "published"
+    },
+    {
+        "id":  2167,
+        "exercice_id":  100034,
+        "value":  5167,
+        "status":  "archived"
+    },
+    {
+        "id":  2168,
+        "exercice_id":  100036,
+        "value":  5168,
+        "status":  "published"
+    },
+    {
+        "id":  2169,
+        "exercice_id":  100038,
+        "value":  5169,
+        "status":  "archived"
+    },
+    {
+        "id":  2170,
+        "exercice_id":  100040,
+        "value":  5170,
+        "status":  "published"
+    },
+    {
+        "id":  2171,
+        "exercice_id":  100042,
+        "value":  5171,
+        "status":  "archived"
+    },
+    {
+        "id":  2172,
+        "exercice_id":  100044,
+        "value":  5172,
+        "status":  "published"
+    },
+    {
+        "id":  2173,
+        "exercice_id":  100046,
+        "value":  5173,
+        "status":  "archived"
+    },
+    {
+        "id":  2174,
+        "exercice_id":  100048,
+        "value":  5174,
+        "status":  "published"
+    },
+    {
+        "id":  2175,
+        "exercice_id":  100050,
+        "value":  5175,
+        "status":  "archived"
+    },
+    {
+        "id":  2176,
+        "exercice_id":  100052,
+        "value":  5176,
+        "status":  "published"
+    },
+    {
+        "id":  2177,
+        "exercice_id":  100054,
+        "value":  5177,
+        "status":  "archived"
+    },
+    {
+        "id":  2178,
+        "exercice_id":  100056,
+        "value":  5178,
+        "status":  "published"
+    },
+    {
+        "id":  2179,
+        "exercice_id":  100058,
+        "value":  5179,
+        "status":  "archived"
+    },
+    {
+        "id":  2180,
+        "exercice_id":  100060,
+        "value":  5180,
+        "status":  "published"
+    },
+    {
+        "id":  2181,
+        "exercice_id":  100062,
+        "value":  5181,
+        "status":  "archived"
+    },
+    {
+        "id":  2182,
+        "exercice_id":  100064,
+        "value":  5182,
+        "status":  "published"
+    },
+    {
+        "id":  2183,
+        "exercice_id":  100066,
+        "value":  5183,
+        "status":  "archived"
+    },
+    {
+        "id":  2184,
+        "exercice_id":  100068,
+        "value":  5184,
+        "status":  "published"
+    },
+    {
+        "id":  2185,
+        "exercice_id":  100070,
+        "value":  5185,
+        "status":  "archived"
+    },
+    {
+        "id":  2186,
+        "exercice_id":  100072,
+        "value":  5186,
+        "status":  "published"
+    },
+    {
+        "id":  2187,
+        "exercice_id":  100074,
+        "value":  5187,
+        "status":  "archived"
+    },
+    {
+        "id":  2188,
+        "exercice_id":  100076,
+        "value":  5188,
+        "status":  "published"
+    },
+    {
+        "id":  2189,
+        "exercice_id":  100078,
+        "value":  5189,
+        "status":  "archived"
+    },
+    {
+        "id":  2190,
+        "exercice_id":  100080,
+        "value":  5190,
+        "status":  "published"
+    },
+    {
+        "id":  2191,
+        "exercice_id":  100082,
+        "value":  5191,
+        "status":  "archived"
+    },
+    {
+        "id":  2192,
+        "exercice_id":  100084,
+        "value":  5192,
+        "status":  "published"
+    },
+    {
+        "id":  2193,
+        "exercice_id":  100086,
+        "value":  5193,
+        "status":  "archived"
+    },
+    {
+        "id":  2194,
+        "exercice_id":  100088,
+        "value":  5194,
+        "status":  "published"
+    },
+    {
+        "id":  2195,
+        "exercice_id":  100090,
+        "value":  5195,
+        "status":  "archived"
+    },
+    {
+        "id":  2196,
+        "exercice_id":  100092,
+        "value":  5196,
+        "status":  "published"
+    },
+    {
+        "id":  2197,
+        "exercice_id":  100094,
+        "value":  5197,
+        "status":  "archived"
+    },
+    {
+        "id":  2198,
+        "exercice_id":  100096,
+        "value":  5198,
+        "status":  "published"
+    },
+    {
+        "id":  2199,
+        "exercice_id":  100098,
+        "value":  5199,
+        "status":  "archived"
+    },
+    {
+        "id":  2200,
+        "exercice_id":  100100,
+        "value":  5200,
+        "status":  "published"
+    },
+    {
+        "id":  2201,
+        "exercice_id":  100102,
+        "value":  5201,
+        "status":  "archived"
+    },
+    {
+        "id":  2202,
+        "exercice_id":  100104,
+        "value":  5202,
+        "status":  "published"
+    },
+    {
+        "id":  2203,
+        "exercice_id":  100106,
+        "value":  5203,
+        "status":  "archived"
+    },
+    {
+        "id":  2204,
+        "exercice_id":  100108,
+        "value":  5204,
+        "status":  "published"
+    },
+    {
+        "id":  2205,
+        "exercice_id":  100110,
+        "value":  5205,
+        "status":  "archived"
+    },
+    {
+        "id":  2206,
+        "exercice_id":  100112,
+        "value":  5206,
+        "status":  "published"
+    },
+    {
+        "id":  2207,
+        "exercice_id":  100114,
+        "value":  5207,
+        "status":  "archived"
+    },
+    {
+        "id":  2208,
+        "exercice_id":  100116,
+        "value":  5208,
+        "status":  "published"
+    },
+    {
+        "id":  2209,
+        "exercice_id":  100118,
+        "value":  5209,
+        "status":  "archived"
+    },
+    {
+        "id":  2210,
+        "exercice_id":  100120,
+        "value":  5210,
+        "status":  "published"
+    },
+    {
+        "id":  2211,
+        "exercice_id":  100122,
+        "value":  5211,
+        "status":  "archived"
+    },
+    {
+        "id":  2212,
+        "exercice_id":  100124,
+        "value":  5212,
+        "status":  "published"
+    },
+    {
+        "id":  2213,
+        "exercice_id":  100126,
+        "value":  5213,
+        "status":  "archived"
+    },
+    {
+        "id":  2214,
+        "exercice_id":  100128,
+        "value":  5214,
+        "status":  "published"
+    },
+    {
+        "id":  2215,
+        "exercice_id":  100130,
+        "value":  5215,
+        "status":  "archived"
+    },
+    {
+        "id":  2216,
+        "exercice_id":  100132,
+        "value":  5216,
+        "status":  "published"
+    },
+    {
+        "id":  2217,
+        "exercice_id":  100134,
+        "value":  5217,
+        "status":  "archived"
+    },
+    {
+        "id":  2218,
+        "exercice_id":  100136,
+        "value":  5218,
+        "status":  "published"
+    },
+    {
+        "id":  2219,
+        "exercice_id":  100138,
+        "value":  5219,
+        "status":  "archived"
+    },
+    {
+        "id":  2220,
+        "exercice_id":  100140,
+        "value":  5220,
+        "status":  "published"
+    },
+    {
+        "id":  2221,
+        "exercice_id":  100142,
+        "value":  5221,
+        "status":  "archived"
+    },
+    {
+        "id":  2222,
+        "exercice_id":  100144,
+        "value":  5222,
+        "status":  "published"
+    },
+    {
+        "id":  2223,
+        "exercice_id":  100146,
+        "value":  5223,
+        "status":  "archived"
+    },
+    {
+        "id":  2224,
+        "exercice_id":  100148,
+        "value":  5224,
+        "status":  "published"
+    },
+    {
+        "id":  2225,
+        "exercice_id":  100150,
+        "value":  5225,
+        "status":  "archived"
+    },
+    {
+        "id":  2226,
+        "exercice_id":  100152,
+        "value":  5226,
+        "status":  "published"
+    },
+    {
+        "id":  2227,
+        "exercice_id":  100154,
+        "value":  5227,
+        "status":  "archived"
+    },
+    {
+        "id":  2228,
+        "exercice_id":  100156,
+        "value":  5228,
+        "status":  "published"
+    },
+    {
+        "id":  2229,
+        "exercice_id":  100158,
+        "value":  5229,
+        "status":  "archived"
+    },
+    {
+        "id":  2230,
+        "exercice_id":  100160,
+        "value":  5230,
+        "status":  "published"
+    },
+    {
+        "id":  2231,
+        "exercice_id":  100162,
+        "value":  5231,
+        "status":  "archived"
+    },
+    {
+        "id":  2232,
+        "exercice_id":  100164,
+        "value":  5232,
+        "status":  "published"
+    },
+    {
+        "id":  2233,
+        "exercice_id":  100166,
+        "value":  5233,
+        "status":  "archived"
+    },
+    {
+        "id":  2234,
+        "exercice_id":  100168,
+        "value":  5234,
+        "status":  "published"
+    },
+    {
+        "id":  2235,
+        "exercice_id":  100170,
+        "value":  5235,
+        "status":  "archived"
+    },
+    {
+        "id":  2236,
+        "exercice_id":  100172,
+        "value":  5236,
+        "status":  "published"
+    },
+    {
+        "id":  2237,
+        "exercice_id":  100174,
+        "value":  5237,
+        "status":  "archived"
+    },
+    {
+        "id":  2238,
+        "exercice_id":  100176,
+        "value":  5238,
+        "status":  "published"
+    },
+    {
+        "id":  2239,
+        "exercice_id":  100178,
+        "value":  5239,
+        "status":  "archived"
+    },
+    {
+        "id":  2240,
+        "exercice_id":  100180,
+        "value":  5240,
+        "status":  "published"
+    },
+    {
+        "id":  2241,
+        "exercice_id":  100182,
+        "value":  5241,
+        "status":  "archived"
+    },
+    {
+        "id":  2242,
+        "exercice_id":  100184,
+        "value":  5242,
+        "status":  "published"
+    },
+    {
+        "id":  2243,
+        "exercice_id":  100186,
+        "value":  5243,
+        "status":  "archived"
+    },
+    {
+        "id":  2244,
+        "exercice_id":  100188,
+        "value":  5244,
+        "status":  "published"
+    },
+    {
+        "id":  2245,
+        "exercice_id":  100190,
+        "value":  5245,
+        "status":  "archived"
+    },
+    {
+        "id":  2246,
+        "exercice_id":  100192,
+        "value":  5246,
+        "status":  "published"
+    },
+    {
+        "id":  2247,
+        "exercice_id":  100194,
+        "value":  5247,
+        "status":  "archived"
+    },
+    {
+        "id":  2248,
+        "exercice_id":  100196,
+        "value":  5248,
+        "status":  "published"
+    },
+    {
+        "id":  2249,
+        "exercice_id":  100198,
+        "value":  5249,
+        "status":  "archived"
+    },
+    {
+        "id":  2250,
+        "exercice_id":  100200,
+        "value":  5250,
+        "status":  "published"
+    },
+    {
+        "id":  2251,
+        "exercice_id":  100202,
+        "value":  5251,
+        "status":  "archived"
+    },
+    {
+        "id":  2252,
+        "exercice_id":  100204,
+        "value":  5252,
+        "status":  "published"
+    },
+    {
+        "id":  2253,
+        "exercice_id":  100206,
+        "value":  5253,
+        "status":  "archived"
+    },
+    {
+        "id":  2254,
+        "exercice_id":  100208,
+        "value":  5254,
+        "status":  "published"
+    },
+    {
+        "id":  2255,
+        "exercice_id":  100210,
+        "value":  5255,
+        "status":  "archived"
+    },
+    {
+        "id":  2256,
+        "exercice_id":  100212,
+        "value":  5256,
+        "status":  "published"
+    },
+    {
+        "id":  2257,
+        "exercice_id":  100214,
+        "value":  5257,
+        "status":  "archived"
+    },
+    {
+        "id":  2258,
+        "exercice_id":  100216,
+        "value":  5258,
+        "status":  "published"
+    },
+    {
+        "id":  2259,
+        "exercice_id":  100218,
+        "value":  5259,
+        "status":  "archived"
+    },
+    {
+        "id":  2260,
+        "exercice_id":  100220,
+        "value":  5260,
+        "status":  "published"
+    },
+    {
+        "id":  2261,
+        "exercice_id":  100222,
+        "value":  5261,
+        "status":  "archived"
+    },
+    {
+        "id":  2262,
+        "exercice_id":  100224,
+        "value":  5262,
+        "status":  "published"
+    },
+    {
+        "id":  2263,
+        "exercice_id":  100226,
+        "value":  5263,
+        "status":  "archived"
+    },
+    {
+        "id":  2264,
+        "exercice_id":  100228,
+        "value":  5264,
+        "status":  "published"
+    },
+    {
+        "id":  2265,
+        "exercice_id":  100230,
+        "value":  5265,
+        "status":  "archived"
+    },
+    {
+        "id":  2266,
+        "exercice_id":  100232,
+        "value":  5266,
+        "status":  "published"
+    },
+    {
+        "id":  2267,
+        "exercice_id":  100234,
+        "value":  5267,
+        "status":  "archived"
+    },
+    {
+        "id":  2268,
+        "exercice_id":  100236,
+        "value":  5268,
+        "status":  "published"
+    },
+    {
+        "id":  2269,
+        "exercice_id":  100238,
+        "value":  5269,
+        "status":  "archived"
+    },
+    {
+        "id":  2270,
+        "exercice_id":  100240,
+        "value":  5270,
+        "status":  "published"
+    },
+    {
+        "id":  2271,
+        "exercice_id":  100242,
+        "value":  5271,
+        "status":  "archived"
+    },
+    {
+        "id":  2272,
+        "exercice_id":  100244,
+        "value":  5272,
+        "status":  "published"
+    },
+    {
+        "id":  2273,
+        "exercice_id":  100246,
+        "value":  5273,
+        "status":  "archived"
+    },
+    {
+        "id":  2274,
+        "exercice_id":  100248,
+        "value":  5274,
+        "status":  "published"
+    },
+    {
+        "id":  2275,
+        "exercice_id":  100250,
+        "value":  5275,
+        "status":  "archived"
+    },
+    {
+        "id":  2276,
+        "exercice_id":  100252,
+        "value":  5276,
+        "status":  "published"
+    },
+    {
+        "id":  2277,
+        "exercice_id":  100254,
+        "value":  5277,
+        "status":  "archived"
+    },
+    {
+        "id":  2278,
+        "exercice_id":  100256,
+        "value":  5278,
+        "status":  "published"
+    },
+    {
+        "id":  2279,
+        "exercice_id":  100258,
+        "value":  5279,
+        "status":  "archived"
+    },
+    {
+        "id":  2280,
+        "exercice_id":  100260,
+        "value":  5280,
+        "status":  "published"
+    },
+    {
+        "id":  2281,
+        "exercice_id":  100262,
+        "value":  5281,
+        "status":  "archived"
+    },
+    {
+        "id":  2282,
+        "exercice_id":  100264,
+        "value":  5282,
+        "status":  "published"
+    },
+    {
+        "id":  2283,
+        "exercice_id":  100266,
+        "value":  5283,
+        "status":  "archived"
+    },
+    {
+        "id":  2284,
+        "exercice_id":  100268,
+        "value":  5284,
+        "status":  "published"
+    },
+    {
+        "id":  2285,
+        "exercice_id":  100270,
+        "value":  5285,
+        "status":  "archived"
+    },
+    {
+        "id":  2286,
+        "exercice_id":  100272,
+        "value":  5286,
+        "status":  "published"
+    },
+    {
+        "id":  2287,
+        "exercice_id":  100274,
+        "value":  5287,
+        "status":  "archived"
+    },
+    {
+        "id":  2288,
+        "exercice_id":  100276,
+        "value":  5288,
+        "status":  "published"
+    },
+    {
+        "id":  2289,
+        "exercice_id":  100278,
+        "value":  5289,
+        "status":  "archived"
+    },
+    {
+        "id":  2290,
+        "exercice_id":  100280,
+        "value":  5290,
+        "status":  "published"
+    },
+    {
+        "id":  2291,
+        "exercice_id":  100282,
+        "value":  5291,
+        "status":  "archived"
+    },
+    {
+        "id":  2292,
+        "exercice_id":  100284,
+        "value":  5292,
+        "status":  "published"
+    },
+    {
+        "id":  2293,
+        "exercice_id":  100286,
+        "value":  5293,
+        "status":  "archived"
+    },
+    {
+        "id":  2294,
+        "exercice_id":  100288,
+        "value":  5294,
+        "status":  "published"
+    },
+    {
+        "id":  2295,
+        "exercice_id":  100290,
+        "value":  5295,
+        "status":  "archived"
+    },
+    {
+        "id":  2296,
+        "exercice_id":  100292,
+        "value":  5296,
+        "status":  "published"
+    },
+    {
+        "id":  2297,
+        "exercice_id":  100294,
+        "value":  5297,
+        "status":  "archived"
+    },
+    {
+        "id":  2298,
+        "exercice_id":  100296,
+        "value":  5298,
+        "status":  "published"
+    },
+    {
+        "id":  2299,
+        "exercice_id":  100298,
+        "value":  5299,
+        "status":  "archived"
+    },
+    {
+        "id":  2300,
+        "exercice_id":  100000,
+        "value":  5300,
+        "status":  "published"
+    },
+    {
+        "id":  2301,
+        "exercice_id":  100002,
+        "value":  5301,
+        "status":  "archived"
+    },
+    {
+        "id":  2302,
+        "exercice_id":  100004,
+        "value":  5302,
+        "status":  "published"
+    },
+    {
+        "id":  2303,
+        "exercice_id":  100006,
+        "value":  5303,
+        "status":  "archived"
+    },
+    {
+        "id":  2304,
+        "exercice_id":  100008,
+        "value":  5304,
+        "status":  "published"
+    },
+    {
+        "id":  2305,
+        "exercice_id":  100010,
+        "value":  5305,
+        "status":  "archived"
+    },
+    {
+        "id":  2306,
+        "exercice_id":  100012,
+        "value":  5306,
+        "status":  "published"
+    },
+    {
+        "id":  2307,
+        "exercice_id":  100014,
+        "value":  5307,
+        "status":  "archived"
+    },
+    {
+        "id":  2308,
+        "exercice_id":  100016,
+        "value":  5308,
+        "status":  "published"
+    },
+    {
+        "id":  2309,
+        "exercice_id":  100018,
+        "value":  5309,
+        "status":  "archived"
+    },
+    {
+        "id":  2310,
+        "exercice_id":  100020,
+        "value":  5310,
+        "status":  "published"
+    },
+    {
+        "id":  2311,
+        "exercice_id":  100022,
+        "value":  5311,
+        "status":  "archived"
+    },
+    {
+        "id":  2312,
+        "exercice_id":  100024,
+        "value":  5312,
+        "status":  "published"
+    },
+    {
+        "id":  2313,
+        "exercice_id":  100026,
+        "value":  5313,
+        "status":  "archived"
+    },
+    {
+        "id":  2314,
+        "exercice_id":  100028,
+        "value":  5314,
+        "status":  "published"
+    },
+    {
+        "id":  2315,
+        "exercice_id":  100030,
+        "value":  5315,
+        "status":  "archived"
+    },
+    {
+        "id":  2316,
+        "exercice_id":  100032,
+        "value":  5316,
+        "status":  "published"
+    },
+    {
+        "id":  2317,
+        "exercice_id":  100034,
+        "value":  5317,
+        "status":  "archived"
+    },
+    {
+        "id":  2318,
+        "exercice_id":  100036,
+        "value":  5318,
+        "status":  "published"
+    },
+    {
+        "id":  2319,
+        "exercice_id":  100038,
+        "value":  5319,
+        "status":  "archived"
+    },
+    {
+        "id":  2320,
+        "exercice_id":  100040,
+        "value":  5320,
+        "status":  "published"
+    },
+    {
+        "id":  2321,
+        "exercice_id":  100042,
+        "value":  5321,
+        "status":  "archived"
+    },
+    {
+        "id":  2322,
+        "exercice_id":  100044,
+        "value":  5322,
+        "status":  "published"
+    },
+    {
+        "id":  2323,
+        "exercice_id":  100046,
+        "value":  5323,
+        "status":  "archived"
+    },
+    {
+        "id":  2324,
+        "exercice_id":  100048,
+        "value":  5324,
+        "status":  "published"
+    },
+    {
+        "id":  2325,
+        "exercice_id":  100050,
+        "value":  5325,
+        "status":  "archived"
+    },
+    {
+        "id":  2326,
+        "exercice_id":  100052,
+        "value":  5326,
+        "status":  "published"
+    },
+    {
+        "id":  2327,
+        "exercice_id":  100054,
+        "value":  5327,
+        "status":  "archived"
+    },
+    {
+        "id":  2328,
+        "exercice_id":  100056,
+        "value":  5328,
+        "status":  "published"
+    },
+    {
+        "id":  2329,
+        "exercice_id":  100058,
+        "value":  5329,
+        "status":  "archived"
+    },
+    {
+        "id":  2330,
+        "exercice_id":  100060,
+        "value":  5330,
+        "status":  "published"
+    },
+    {
+        "id":  2331,
+        "exercice_id":  100062,
+        "value":  5331,
+        "status":  "archived"
+    },
+    {
+        "id":  2332,
+        "exercice_id":  100064,
+        "value":  5332,
+        "status":  "published"
+    },
+    {
+        "id":  2333,
+        "exercice_id":  100066,
+        "value":  5333,
+        "status":  "archived"
+    },
+    {
+        "id":  2334,
+        "exercice_id":  100068,
+        "value":  5334,
+        "status":  "published"
+    },
+    {
+        "id":  2335,
+        "exercice_id":  100070,
+        "value":  5335,
+        "status":  "archived"
+    },
+    {
+        "id":  2336,
+        "exercice_id":  100072,
+        "value":  5336,
+        "status":  "published"
+    },
+    {
+        "id":  2337,
+        "exercice_id":  100074,
+        "value":  5337,
+        "status":  "archived"
+    },
+    {
+        "id":  2338,
+        "exercice_id":  100076,
+        "value":  5338,
+        "status":  "published"
+    },
+    {
+        "id":  2339,
+        "exercice_id":  100078,
+        "value":  5339,
+        "status":  "archived"
+    },
+    {
+        "id":  2340,
+        "exercice_id":  100080,
+        "value":  5340,
+        "status":  "published"
+    },
+    {
+        "id":  2341,
+        "exercice_id":  100082,
+        "value":  5341,
+        "status":  "archived"
+    },
+    {
+        "id":  2342,
+        "exercice_id":  100084,
+        "value":  5342,
+        "status":  "published"
+    },
+    {
+        "id":  2343,
+        "exercice_id":  100086,
+        "value":  5343,
+        "status":  "archived"
+    },
+    {
+        "id":  2344,
+        "exercice_id":  100088,
+        "value":  5344,
+        "status":  "published"
+    },
+    {
+        "id":  2345,
+        "exercice_id":  100090,
+        "value":  5345,
+        "status":  "archived"
+    },
+    {
+        "id":  2346,
+        "exercice_id":  100092,
+        "value":  5346,
+        "status":  "published"
+    },
+    {
+        "id":  2347,
+        "exercice_id":  100094,
+        "value":  5347,
+        "status":  "archived"
+    },
+    {
+        "id":  2348,
+        "exercice_id":  100096,
+        "value":  5348,
+        "status":  "published"
+    },
+    {
+        "id":  2349,
+        "exercice_id":  100098,
+        "value":  5349,
+        "status":  "archived"
+    },
+    {
+        "id":  2350,
+        "exercice_id":  100100,
+        "value":  5350,
+        "status":  "published"
+    },
+    {
+        "id":  2351,
+        "exercice_id":  100102,
+        "value":  5351,
+        "status":  "archived"
+    },
+    {
+        "id":  2352,
+        "exercice_id":  100104,
+        "value":  5352,
+        "status":  "published"
+    },
+    {
+        "id":  2353,
+        "exercice_id":  100106,
+        "value":  5353,
+        "status":  "archived"
+    },
+    {
+        "id":  2354,
+        "exercice_id":  100108,
+        "value":  5354,
+        "status":  "published"
+    },
+    {
+        "id":  2355,
+        "exercice_id":  100110,
+        "value":  5355,
+        "status":  "archived"
+    },
+    {
+        "id":  2356,
+        "exercice_id":  100112,
+        "value":  5356,
+        "status":  "published"
+    },
+    {
+        "id":  2357,
+        "exercice_id":  100114,
+        "value":  5357,
+        "status":  "archived"
+    },
+    {
+        "id":  2358,
+        "exercice_id":  100116,
+        "value":  5358,
+        "status":  "published"
+    },
+    {
+        "id":  2359,
+        "exercice_id":  100118,
+        "value":  5359,
+        "status":  "archived"
+    },
+    {
+        "id":  2360,
+        "exercice_id":  100120,
+        "value":  5360,
+        "status":  "published"
+    },
+    {
+        "id":  2361,
+        "exercice_id":  100122,
+        "value":  5361,
+        "status":  "archived"
+    },
+    {
+        "id":  2362,
+        "exercice_id":  100124,
+        "value":  5362,
+        "status":  "published"
+    },
+    {
+        "id":  2363,
+        "exercice_id":  100126,
+        "value":  5363,
+        "status":  "archived"
+    },
+    {
+        "id":  2364,
+        "exercice_id":  100128,
+        "value":  5364,
+        "status":  "published"
+    },
+    {
+        "id":  2365,
+        "exercice_id":  100130,
+        "value":  5365,
+        "status":  "archived"
+    },
+    {
+        "id":  2366,
+        "exercice_id":  100132,
+        "value":  5366,
+        "status":  "published"
+    },
+    {
+        "id":  2367,
+        "exercice_id":  100134,
+        "value":  5367,
+        "status":  "archived"
+    },
+    {
+        "id":  2368,
+        "exercice_id":  100136,
+        "value":  5368,
+        "status":  "published"
+    },
+    {
+        "id":  2369,
+        "exercice_id":  100138,
+        "value":  5369,
+        "status":  "archived"
+    },
+    {
+        "id":  2370,
+        "exercice_id":  100140,
+        "value":  5370,
+        "status":  "published"
+    },
+    {
+        "id":  2371,
+        "exercice_id":  100142,
+        "value":  5371,
+        "status":  "archived"
+    },
+    {
+        "id":  2372,
+        "exercice_id":  100144,
+        "value":  5372,
+        "status":  "published"
+    },
+    {
+        "id":  2373,
+        "exercice_id":  100146,
+        "value":  5373,
+        "status":  "archived"
+    },
+    {
+        "id":  2374,
+        "exercice_id":  100148,
+        "value":  5374,
+        "status":  "published"
+    },
+    {
+        "id":  2375,
+        "exercice_id":  100150,
+        "value":  5375,
+        "status":  "archived"
+    },
+    {
+        "id":  2376,
+        "exercice_id":  100152,
+        "value":  5376,
+        "status":  "published"
+    },
+    {
+        "id":  2377,
+        "exercice_id":  100154,
+        "value":  5377,
+        "status":  "archived"
+    },
+    {
+        "id":  2378,
+        "exercice_id":  100156,
+        "value":  5378,
+        "status":  "published"
+    },
+    {
+        "id":  2379,
+        "exercice_id":  100158,
+        "value":  5379,
+        "status":  "archived"
+    },
+    {
+        "id":  2380,
+        "exercice_id":  100160,
+        "value":  5380,
+        "status":  "published"
+    },
+    {
+        "id":  2381,
+        "exercice_id":  100162,
+        "value":  5381,
+        "status":  "archived"
+    },
+    {
+        "id":  2382,
+        "exercice_id":  100164,
+        "value":  5382,
+        "status":  "published"
+    },
+    {
+        "id":  2383,
+        "exercice_id":  100166,
+        "value":  5383,
+        "status":  "archived"
+    },
+    {
+        "id":  2384,
+        "exercice_id":  100168,
+        "value":  5384,
+        "status":  "published"
+    },
+    {
+        "id":  2385,
+        "exercice_id":  100170,
+        "value":  5385,
+        "status":  "archived"
+    },
+    {
+        "id":  2386,
+        "exercice_id":  100172,
+        "value":  5386,
+        "status":  "published"
+    },
+    {
+        "id":  2387,
+        "exercice_id":  100174,
+        "value":  5387,
+        "status":  "archived"
+    },
+    {
+        "id":  2388,
+        "exercice_id":  100176,
+        "value":  5388,
+        "status":  "published"
+    },
+    {
+        "id":  2389,
+        "exercice_id":  100178,
+        "value":  5389,
+        "status":  "archived"
+    },
+    {
+        "id":  2390,
+        "exercice_id":  100180,
+        "value":  5390,
+        "status":  "published"
+    },
+    {
+        "id":  2391,
+        "exercice_id":  100182,
+        "value":  5391,
+        "status":  "archived"
+    },
+    {
+        "id":  2392,
+        "exercice_id":  100184,
+        "value":  5392,
+        "status":  "published"
+    },
+    {
+        "id":  2393,
+        "exercice_id":  100186,
+        "value":  5393,
+        "status":  "archived"
+    },
+    {
+        "id":  2394,
+        "exercice_id":  100188,
+        "value":  5394,
+        "status":  "published"
+    },
+    {
+        "id":  2395,
+        "exercice_id":  100190,
+        "value":  5395,
+        "status":  "archived"
+    },
+    {
+        "id":  2396,
+        "exercice_id":  100192,
+        "value":  5396,
+        "status":  "published"
+    },
+    {
+        "id":  2397,
+        "exercice_id":  100194,
+        "value":  5397,
+        "status":  "archived"
+    },
+    {
+        "id":  2398,
+        "exercice_id":  100196,
+        "value":  5398,
+        "status":  "published"
+    },
+    {
+        "id":  2399,
+        "exercice_id":  100198,
+        "value":  5399,
+        "status":  "archived"
+    },
+    {
+        "id":  2400,
+        "exercice_id":  100200,
+        "value":  5400,
+        "status":  "published"
+    },
+    {
+        "id":  2401,
+        "exercice_id":  100202,
+        "value":  5401,
+        "status":  "archived"
+    },
+    {
+        "id":  2402,
+        "exercice_id":  100204,
+        "value":  5402,
+        "status":  "published"
+    },
+    {
+        "id":  2403,
+        "exercice_id":  100206,
+        "value":  5403,
+        "status":  "archived"
+    },
+    {
+        "id":  2404,
+        "exercice_id":  100208,
+        "value":  5404,
+        "status":  "published"
+    },
+    {
+        "id":  2405,
+        "exercice_id":  100210,
+        "value":  5405,
+        "status":  "archived"
+    },
+    {
+        "id":  2406,
+        "exercice_id":  100212,
+        "value":  5406,
+        "status":  "published"
+    },
+    {
+        "id":  2407,
+        "exercice_id":  100214,
+        "value":  5407,
+        "status":  "archived"
+    },
+    {
+        "id":  2408,
+        "exercice_id":  100216,
+        "value":  5408,
+        "status":  "published"
+    },
+    {
+        "id":  2409,
+        "exercice_id":  100218,
+        "value":  5409,
+        "status":  "archived"
+    },
+    {
+        "id":  2410,
+        "exercice_id":  100220,
+        "value":  5410,
+        "status":  "published"
+    },
+    {
+        "id":  2411,
+        "exercice_id":  100222,
+        "value":  5411,
+        "status":  "archived"
+    },
+    {
+        "id":  2412,
+        "exercice_id":  100224,
+        "value":  5412,
+        "status":  "published"
+    },
+    {
+        "id":  2413,
+        "exercice_id":  100226,
+        "value":  5413,
+        "status":  "archived"
+    },
+    {
+        "id":  2414,
+        "exercice_id":  100228,
+        "value":  5414,
+        "status":  "published"
+    },
+    {
+        "id":  2415,
+        "exercice_id":  100230,
+        "value":  5415,
+        "status":  "archived"
+    },
+    {
+        "id":  2416,
+        "exercice_id":  100232,
+        "value":  5416,
+        "status":  "published"
+    },
+    {
+        "id":  2417,
+        "exercice_id":  100234,
+        "value":  5417,
+        "status":  "archived"
+    },
+    {
+        "id":  2418,
+        "exercice_id":  100236,
+        "value":  5418,
+        "status":  "published"
+    },
+    {
+        "id":  2419,
+        "exercice_id":  100238,
+        "value":  5419,
+        "status":  "archived"
+    },
+    {
+        "id":  2420,
+        "exercice_id":  100240,
+        "value":  5420,
+        "status":  "published"
+    },
+    {
+        "id":  2421,
+        "exercice_id":  100242,
+        "value":  5421,
+        "status":  "archived"
+    },
+    {
+        "id":  2422,
+        "exercice_id":  100244,
+        "value":  5422,
+        "status":  "published"
+    },
+    {
+        "id":  2423,
+        "exercice_id":  100246,
+        "value":  5423,
+        "status":  "archived"
+    },
+    {
+        "id":  2424,
+        "exercice_id":  100248,
+        "value":  5424,
+        "status":  "published"
+    },
+    {
+        "id":  2425,
+        "exercice_id":  100250,
+        "value":  5425,
+        "status":  "archived"
+    },
+    {
+        "id":  2426,
+        "exercice_id":  100252,
+        "value":  5426,
+        "status":  "published"
+    },
+    {
+        "id":  2427,
+        "exercice_id":  100254,
+        "value":  5427,
+        "status":  "archived"
+    },
+    {
+        "id":  2428,
+        "exercice_id":  100256,
+        "value":  5428,
+        "status":  "published"
+    },
+    {
+        "id":  2429,
+        "exercice_id":  100258,
+        "value":  5429,
+        "status":  "archived"
+    },
+    {
+        "id":  2430,
+        "exercice_id":  100260,
+        "value":  5430,
+        "status":  "published"
+    },
+    {
+        "id":  2431,
+        "exercice_id":  100262,
+        "value":  5431,
+        "status":  "archived"
+    },
+    {
+        "id":  2432,
+        "exercice_id":  100264,
+        "value":  5432,
+        "status":  "published"
+    },
+    {
+        "id":  2433,
+        "exercice_id":  100266,
+        "value":  5433,
+        "status":  "archived"
+    },
+    {
+        "id":  2434,
+        "exercice_id":  100268,
+        "value":  5434,
+        "status":  "published"
+    },
+    {
+        "id":  2435,
+        "exercice_id":  100270,
+        "value":  5435,
+        "status":  "archived"
+    },
+    {
+        "id":  2436,
+        "exercice_id":  100272,
+        "value":  5436,
+        "status":  "published"
+    },
+    {
+        "id":  2437,
+        "exercice_id":  100274,
+        "value":  5437,
+        "status":  "archived"
+    },
+    {
+        "id":  2438,
+        "exercice_id":  100276,
+        "value":  5438,
+        "status":  "published"
+    },
+    {
+        "id":  2439,
+        "exercice_id":  100278,
+        "value":  5439,
+        "status":  "archived"
+    },
+    {
+        "id":  2440,
+        "exercice_id":  100280,
+        "value":  5440,
+        "status":  "published"
+    },
+    {
+        "id":  2441,
+        "exercice_id":  100282,
+        "value":  5441,
+        "status":  "archived"
+    },
+    {
+        "id":  2442,
+        "exercice_id":  100284,
+        "value":  5442,
+        "status":  "published"
+    },
+    {
+        "id":  2443,
+        "exercice_id":  100286,
+        "value":  5443,
+        "status":  "archived"
+    },
+    {
+        "id":  2444,
+        "exercice_id":  100288,
+        "value":  5444,
+        "status":  "published"
+    },
+    {
+        "id":  2445,
+        "exercice_id":  100290,
+        "value":  5445,
+        "status":  "archived"
+    },
+    {
+        "id":  2446,
+        "exercice_id":  100292,
+        "value":  5446,
+        "status":  "published"
+    },
+    {
+        "id":  2447,
+        "exercice_id":  100294,
+        "value":  5447,
+        "status":  "archived"
+    },
+    {
+        "id":  2448,
+        "exercice_id":  100296,
+        "value":  5448,
+        "status":  "published"
+    },
+    {
+        "id":  2449,
+        "exercice_id":  100298,
+        "value":  5449,
+        "status":  "archived"
+    },
+    {
+        "id":  2450,
+        "exercice_id":  100000,
+        "value":  5450,
+        "status":  "published"
+    },
+    {
+        "id":  2451,
+        "exercice_id":  100002,
+        "value":  5451,
+        "status":  "archived"
+    },
+    {
+        "id":  2452,
+        "exercice_id":  100004,
+        "value":  5452,
+        "status":  "published"
+    },
+    {
+        "id":  2453,
+        "exercice_id":  100006,
+        "value":  5453,
+        "status":  "archived"
+    },
+    {
+        "id":  2454,
+        "exercice_id":  100008,
+        "value":  5454,
+        "status":  "published"
+    },
+    {
+        "id":  2455,
+        "exercice_id":  100010,
+        "value":  5455,
+        "status":  "archived"
+    },
+    {
+        "id":  2456,
+        "exercice_id":  100012,
+        "value":  5456,
+        "status":  "published"
+    },
+    {
+        "id":  2457,
+        "exercice_id":  100014,
+        "value":  5457,
+        "status":  "archived"
+    },
+    {
+        "id":  2458,
+        "exercice_id":  100016,
+        "value":  5458,
+        "status":  "published"
+    },
+    {
+        "id":  2459,
+        "exercice_id":  100018,
+        "value":  5459,
+        "status":  "archived"
+    },
+    {
+        "id":  2460,
+        "exercice_id":  100020,
+        "value":  5460,
+        "status":  "published"
+    },
+    {
+        "id":  2461,
+        "exercice_id":  100022,
+        "value":  5461,
+        "status":  "archived"
+    },
+    {
+        "id":  2462,
+        "exercice_id":  100024,
+        "value":  5462,
+        "status":  "published"
+    },
+    {
+        "id":  2463,
+        "exercice_id":  100026,
+        "value":  5463,
+        "status":  "archived"
+    },
+    {
+        "id":  2464,
+        "exercice_id":  100028,
+        "value":  5464,
+        "status":  "published"
+    },
+    {
+        "id":  2465,
+        "exercice_id":  100030,
+        "value":  5465,
+        "status":  "archived"
+    },
+    {
+        "id":  2466,
+        "exercice_id":  100032,
+        "value":  5466,
+        "status":  "published"
+    },
+    {
+        "id":  2467,
+        "exercice_id":  100034,
+        "value":  5467,
+        "status":  "archived"
+    },
+    {
+        "id":  2468,
+        "exercice_id":  100036,
+        "value":  5468,
+        "status":  "published"
+    },
+    {
+        "id":  2469,
+        "exercice_id":  100038,
+        "value":  5469,
+        "status":  "archived"
+    },
+    {
+        "id":  2470,
+        "exercice_id":  100040,
+        "value":  5470,
+        "status":  "published"
+    },
+    {
+        "id":  2471,
+        "exercice_id":  100042,
+        "value":  5471,
+        "status":  "archived"
+    },
+    {
+        "id":  2472,
+        "exercice_id":  100044,
+        "value":  5472,
+        "status":  "published"
+    },
+    {
+        "id":  2473,
+        "exercice_id":  100046,
+        "value":  5473,
+        "status":  "archived"
+    },
+    {
+        "id":  2474,
+        "exercice_id":  100048,
+        "value":  5474,
+        "status":  "published"
+    },
+    {
+        "id":  2475,
+        "exercice_id":  100050,
+        "value":  5475,
+        "status":  "archived"
+    },
+    {
+        "id":  2476,
+        "exercice_id":  100052,
+        "value":  5476,
+        "status":  "published"
+    },
+    {
+        "id":  2477,
+        "exercice_id":  100054,
+        "value":  5477,
+        "status":  "archived"
+    },
+    {
+        "id":  2478,
+        "exercice_id":  100056,
+        "value":  5478,
+        "status":  "published"
+    },
+    {
+        "id":  2479,
+        "exercice_id":  100058,
+        "value":  5479,
+        "status":  "archived"
+    },
+    {
+        "id":  2480,
+        "exercice_id":  100060,
+        "value":  5480,
+        "status":  "published"
+    },
+    {
+        "id":  2481,
+        "exercice_id":  100062,
+        "value":  5481,
+        "status":  "archived"
+    },
+    {
+        "id":  2482,
+        "exercice_id":  100064,
+        "value":  5482,
+        "status":  "published"
+    },
+    {
+        "id":  2483,
+        "exercice_id":  100066,
+        "value":  5483,
+        "status":  "archived"
+    },
+    {
+        "id":  2484,
+        "exercice_id":  100068,
+        "value":  5484,
+        "status":  "published"
+    },
+    {
+        "id":  2485,
+        "exercice_id":  100070,
+        "value":  5485,
+        "status":  "archived"
+    },
+    {
+        "id":  2486,
+        "exercice_id":  100072,
+        "value":  5486,
+        "status":  "published"
+    },
+    {
+        "id":  2487,
+        "exercice_id":  100074,
+        "value":  5487,
+        "status":  "archived"
+    },
+    {
+        "id":  2488,
+        "exercice_id":  100076,
+        "value":  5488,
+        "status":  "published"
+    },
+    {
+        "id":  2489,
+        "exercice_id":  100078,
+        "value":  5489,
+        "status":  "archived"
+    },
+    {
+        "id":  2490,
+        "exercice_id":  100080,
+        "value":  5490,
+        "status":  "published"
+    },
+    {
+        "id":  2491,
+        "exercice_id":  100082,
+        "value":  5491,
+        "status":  "archived"
+    },
+    {
+        "id":  2492,
+        "exercice_id":  100084,
+        "value":  5492,
+        "status":  "published"
+    },
+    {
+        "id":  2493,
+        "exercice_id":  100086,
+        "value":  5493,
+        "status":  "archived"
+    },
+    {
+        "id":  2494,
+        "exercice_id":  100088,
+        "value":  5494,
+        "status":  "published"
+    },
+    {
+        "id":  2495,
+        "exercice_id":  100090,
+        "value":  5495,
+        "status":  "archived"
+    },
+    {
+        "id":  2496,
+        "exercice_id":  100092,
+        "value":  5496,
+        "status":  "published"
+    },
+    {
+        "id":  2497,
+        "exercice_id":  100094,
+        "value":  5497,
+        "status":  "archived"
+    },
+    {
+        "id":  2498,
+        "exercice_id":  100096,
+        "value":  5498,
+        "status":  "published"
+    },
+    {
+        "id":  2499,
+        "exercice_id":  100098,
+        "value":  5499,
+        "status":  "archived"
+    },
+    {
+        "id":  2500,
+        "exercice_id":  100100,
+        "value":  5500,
+        "status":  "published"
+    },
+    {
+        "id":  2501,
+        "exercice_id":  100102,
+        "value":  5501,
+        "status":  "archived"
+    },
+    {
+        "id":  2502,
+        "exercice_id":  100104,
+        "value":  5502,
+        "status":  "published"
+    },
+    {
+        "id":  2503,
+        "exercice_id":  100106,
+        "value":  5503,
+        "status":  "archived"
+    },
+    {
+        "id":  2504,
+        "exercice_id":  100108,
+        "value":  5504,
+        "status":  "published"
+    },
+    {
+        "id":  2505,
+        "exercice_id":  100110,
+        "value":  5505,
+        "status":  "archived"
+    },
+    {
+        "id":  2506,
+        "exercice_id":  100112,
+        "value":  5506,
+        "status":  "published"
+    },
+    {
+        "id":  2507,
+        "exercice_id":  100114,
+        "value":  5507,
+        "status":  "archived"
+    },
+    {
+        "id":  2508,
+        "exercice_id":  100116,
+        "value":  5508,
+        "status":  "published"
+    },
+    {
+        "id":  2509,
+        "exercice_id":  100118,
+        "value":  5509,
+        "status":  "archived"
+    },
+    {
+        "id":  2510,
+        "exercice_id":  100120,
+        "value":  5510,
+        "status":  "published"
+    },
+    {
+        "id":  2511,
+        "exercice_id":  100122,
+        "value":  5511,
+        "status":  "archived"
+    },
+    {
+        "id":  2512,
+        "exercice_id":  100124,
+        "value":  5512,
+        "status":  "published"
+    },
+    {
+        "id":  2513,
+        "exercice_id":  100126,
+        "value":  5513,
+        "status":  "archived"
+    },
+    {
+        "id":  2514,
+        "exercice_id":  100128,
+        "value":  5514,
+        "status":  "published"
+    },
+    {
+        "id":  2515,
+        "exercice_id":  100130,
+        "value":  5515,
+        "status":  "archived"
+    },
+    {
+        "id":  2516,
+        "exercice_id":  100132,
+        "value":  5516,
+        "status":  "published"
+    },
+    {
+        "id":  2517,
+        "exercice_id":  100134,
+        "value":  5517,
+        "status":  "archived"
+    },
+    {
+        "id":  2518,
+        "exercice_id":  100136,
+        "value":  5518,
+        "status":  "published"
+    },
+    {
+        "id":  2519,
+        "exercice_id":  100138,
+        "value":  5519,
+        "status":  "archived"
+    },
+    {
+        "id":  2520,
+        "exercice_id":  100140,
+        "value":  5520,
+        "status":  "published"
+    },
+    {
+        "id":  2521,
+        "exercice_id":  100142,
+        "value":  5521,
+        "status":  "archived"
+    },
+    {
+        "id":  2522,
+        "exercice_id":  100144,
+        "value":  5522,
+        "status":  "published"
+    },
+    {
+        "id":  2523,
+        "exercice_id":  100146,
+        "value":  5523,
+        "status":  "archived"
+    },
+    {
+        "id":  2524,
+        "exercice_id":  100148,
+        "value":  5524,
+        "status":  "published"
+    },
+    {
+        "id":  2525,
+        "exercice_id":  100150,
+        "value":  5525,
+        "status":  "archived"
+    },
+    {
+        "id":  2526,
+        "exercice_id":  100152,
+        "value":  5526,
+        "status":  "published"
+    },
+    {
+        "id":  2527,
+        "exercice_id":  100154,
+        "value":  5527,
+        "status":  "archived"
+    },
+    {
+        "id":  2528,
+        "exercice_id":  100156,
+        "value":  5528,
+        "status":  "published"
+    },
+    {
+        "id":  2529,
+        "exercice_id":  100158,
+        "value":  5529,
+        "status":  "archived"
+    },
+    {
+        "id":  2530,
+        "exercice_id":  100160,
+        "value":  5530,
+        "status":  "published"
+    },
+    {
+        "id":  2531,
+        "exercice_id":  100162,
+        "value":  5531,
+        "status":  "archived"
+    },
+    {
+        "id":  2532,
+        "exercice_id":  100164,
+        "value":  5532,
+        "status":  "published"
+    },
+    {
+        "id":  2533,
+        "exercice_id":  100166,
+        "value":  5533,
+        "status":  "archived"
+    },
+    {
+        "id":  2534,
+        "exercice_id":  100168,
+        "value":  5534,
+        "status":  "published"
+    },
+    {
+        "id":  2535,
+        "exercice_id":  100170,
+        "value":  5535,
+        "status":  "archived"
+    },
+    {
+        "id":  2536,
+        "exercice_id":  100172,
+        "value":  5536,
+        "status":  "published"
+    },
+    {
+        "id":  2537,
+        "exercice_id":  100174,
+        "value":  5537,
+        "status":  "archived"
+    },
+    {
+        "id":  2538,
+        "exercice_id":  100176,
+        "value":  5538,
+        "status":  "published"
+    },
+    {
+        "id":  2539,
+        "exercice_id":  100178,
+        "value":  5539,
+        "status":  "archived"
+    },
+    {
+        "id":  2540,
+        "exercice_id":  100180,
+        "value":  5540,
+        "status":  "published"
+    },
+    {
+        "id":  2541,
+        "exercice_id":  100182,
+        "value":  5541,
+        "status":  "archived"
+    },
+    {
+        "id":  2542,
+        "exercice_id":  100184,
+        "value":  5542,
+        "status":  "published"
+    },
+    {
+        "id":  2543,
+        "exercice_id":  100186,
+        "value":  5543,
+        "status":  "archived"
+    },
+    {
+        "id":  2544,
+        "exercice_id":  100188,
+        "value":  5544,
+        "status":  "published"
+    },
+    {
+        "id":  2545,
+        "exercice_id":  100190,
+        "value":  5545,
+        "status":  "archived"
+    },
+    {
+        "id":  2546,
+        "exercice_id":  100192,
+        "value":  5546,
+        "status":  "published"
+    },
+    {
+        "id":  2547,
+        "exercice_id":  100194,
+        "value":  5547,
+        "status":  "archived"
+    },
+    {
+        "id":  2548,
+        "exercice_id":  100196,
+        "value":  5548,
+        "status":  "published"
+    },
+    {
+        "id":  2549,
+        "exercice_id":  100198,
+        "value":  5549,
+        "status":  "archived"
+    },
+    {
+        "id":  2550,
+        "exercice_id":  100200,
+        "value":  5550,
+        "status":  "published"
+    },
+    {
+        "id":  2551,
+        "exercice_id":  100202,
+        "value":  5551,
+        "status":  "archived"
+    },
+    {
+        "id":  2552,
+        "exercice_id":  100204,
+        "value":  5552,
+        "status":  "published"
+    },
+    {
+        "id":  2553,
+        "exercice_id":  100206,
+        "value":  5553,
+        "status":  "archived"
+    },
+    {
+        "id":  2554,
+        "exercice_id":  100208,
+        "value":  5554,
+        "status":  "published"
+    },
+    {
+        "id":  2555,
+        "exercice_id":  100210,
+        "value":  5555,
+        "status":  "archived"
+    },
+    {
+        "id":  2556,
+        "exercice_id":  100212,
+        "value":  5556,
+        "status":  "published"
+    },
+    {
+        "id":  2557,
+        "exercice_id":  100214,
+        "value":  5557,
+        "status":  "archived"
+    },
+    {
+        "id":  2558,
+        "exercice_id":  100216,
+        "value":  5558,
+        "status":  "published"
+    },
+    {
+        "id":  2559,
+        "exercice_id":  100218,
+        "value":  5559,
+        "status":  "archived"
+    },
+    {
+        "id":  2560,
+        "exercice_id":  100220,
+        "value":  5560,
+        "status":  "published"
+    },
+    {
+        "id":  2561,
+        "exercice_id":  100222,
+        "value":  5561,
+        "status":  "archived"
+    },
+    {
+        "id":  2562,
+        "exercice_id":  100224,
+        "value":  5562,
+        "status":  "published"
+    },
+    {
+        "id":  2563,
+        "exercice_id":  100226,
+        "value":  5563,
+        "status":  "archived"
+    },
+    {
+        "id":  2564,
+        "exercice_id":  100228,
+        "value":  5564,
+        "status":  "published"
+    },
+    {
+        "id":  2565,
+        "exercice_id":  100230,
+        "value":  5565,
+        "status":  "archived"
+    },
+    {
+        "id":  2566,
+        "exercice_id":  100232,
+        "value":  5566,
+        "status":  "published"
+    },
+    {
+        "id":  2567,
+        "exercice_id":  100234,
+        "value":  5567,
+        "status":  "archived"
+    },
+    {
+        "id":  2568,
+        "exercice_id":  100236,
+        "value":  5568,
+        "status":  "published"
+    },
+    {
+        "id":  2569,
+        "exercice_id":  100238,
+        "value":  5569,
+        "status":  "archived"
+    },
+    {
+        "id":  2570,
+        "exercice_id":  100240,
+        "value":  5570,
+        "status":  "published"
+    },
+    {
+        "id":  2571,
+        "exercice_id":  100242,
+        "value":  5571,
+        "status":  "archived"
+    },
+    {
+        "id":  2572,
+        "exercice_id":  100244,
+        "value":  5572,
+        "status":  "published"
+    },
+    {
+        "id":  2573,
+        "exercice_id":  100246,
+        "value":  5573,
+        "status":  "archived"
+    },
+    {
+        "id":  2574,
+        "exercice_id":  100248,
+        "value":  5574,
+        "status":  "published"
+    },
+    {
+        "id":  2575,
+        "exercice_id":  100250,
+        "value":  5575,
+        "status":  "archived"
+    },
+    {
+        "id":  2576,
+        "exercice_id":  100252,
+        "value":  5576,
+        "status":  "published"
+    },
+    {
+        "id":  2577,
+        "exercice_id":  100254,
+        "value":  5577,
+        "status":  "archived"
+    },
+    {
+        "id":  2578,
+        "exercice_id":  100256,
+        "value":  5578,
+        "status":  "published"
+    },
+    {
+        "id":  2579,
+        "exercice_id":  100258,
+        "value":  5579,
+        "status":  "archived"
+    },
+    {
+        "id":  2580,
+        "exercice_id":  100260,
+        "value":  5580,
+        "status":  "published"
+    },
+    {
+        "id":  2581,
+        "exercice_id":  100262,
+        "value":  5581,
+        "status":  "archived"
+    },
+    {
+        "id":  2582,
+        "exercice_id":  100264,
+        "value":  5582,
+        "status":  "published"
+    },
+    {
+        "id":  2583,
+        "exercice_id":  100266,
+        "value":  5583,
+        "status":  "archived"
+    },
+    {
+        "id":  2584,
+        "exercice_id":  100268,
+        "value":  5584,
+        "status":  "published"
+    },
+    {
+        "id":  2585,
+        "exercice_id":  100270,
+        "value":  5585,
+        "status":  "archived"
+    },
+    {
+        "id":  2586,
+        "exercice_id":  100272,
+        "value":  5586,
+        "status":  "published"
+    },
+    {
+        "id":  2587,
+        "exercice_id":  100274,
+        "value":  5587,
+        "status":  "archived"
+    },
+    {
+        "id":  2588,
+        "exercice_id":  100276,
+        "value":  5588,
+        "status":  "published"
+    },
+    {
+        "id":  2589,
+        "exercice_id":  100278,
+        "value":  5589,
+        "status":  "archived"
+    },
+    {
+        "id":  2590,
+        "exercice_id":  100280,
+        "value":  5590,
+        "status":  "published"
+    },
+    {
+        "id":  2591,
+        "exercice_id":  100282,
+        "value":  5591,
+        "status":  "archived"
+    },
+    {
+        "id":  2592,
+        "exercice_id":  100284,
+        "value":  5592,
+        "status":  "published"
+    },
+    {
+        "id":  2593,
+        "exercice_id":  100286,
+        "value":  5593,
+        "status":  "archived"
+    },
+    {
+        "id":  2594,
+        "exercice_id":  100288,
+        "value":  5594,
+        "status":  "published"
+    },
+    {
+        "id":  2595,
+        "exercice_id":  100290,
+        "value":  5595,
+        "status":  "archived"
+    },
+    {
+        "id":  2596,
+        "exercice_id":  100292,
+        "value":  5596,
+        "status":  "published"
+    },
+    {
+        "id":  2597,
+        "exercice_id":  100294,
+        "value":  5597,
+        "status":  "archived"
+    },
+    {
+        "id":  2598,
+        "exercice_id":  100296,
+        "value":  5598,
+        "status":  "published"
+    },
+    {
+        "id":  2599,
+        "exercice_id":  100298,
+        "value":  5599,
+        "status":  "archived"
+    },
+    {
+        "id":  2600,
+        "exercice_id":  100000,
+        "value":  5600,
+        "status":  "published"
+    },
+    {
+        "id":  2601,
+        "exercice_id":  100002,
+        "value":  5601,
+        "status":  "archived"
+    },
+    {
+        "id":  2602,
+        "exercice_id":  100004,
+        "value":  5602,
+        "status":  "published"
+    },
+    {
+        "id":  2603,
+        "exercice_id":  100006,
+        "value":  5603,
+        "status":  "archived"
+    },
+    {
+        "id":  2604,
+        "exercice_id":  100008,
+        "value":  5604,
+        "status":  "published"
+    },
+    {
+        "id":  2605,
+        "exercice_id":  100010,
+        "value":  5605,
+        "status":  "archived"
+    },
+    {
+        "id":  2606,
+        "exercice_id":  100012,
+        "value":  5606,
+        "status":  "published"
+    },
+    {
+        "id":  2607,
+        "exercice_id":  100014,
+        "value":  5607,
+        "status":  "archived"
+    },
+    {
+        "id":  2608,
+        "exercice_id":  100016,
+        "value":  5608,
+        "status":  "published"
+    },
+    {
+        "id":  2609,
+        "exercice_id":  100018,
+        "value":  5609,
+        "status":  "archived"
+    },
+    {
+        "id":  2610,
+        "exercice_id":  100020,
+        "value":  5610,
+        "status":  "published"
+    },
+    {
+        "id":  2611,
+        "exercice_id":  100022,
+        "value":  5611,
+        "status":  "archived"
+    },
+    {
+        "id":  2612,
+        "exercice_id":  100024,
+        "value":  5612,
+        "status":  "published"
+    },
+    {
+        "id":  2613,
+        "exercice_id":  100026,
+        "value":  5613,
+        "status":  "archived"
+    },
+    {
+        "id":  2614,
+        "exercice_id":  100028,
+        "value":  5614,
+        "status":  "published"
+    },
+    {
+        "id":  2615,
+        "exercice_id":  100030,
+        "value":  5615,
+        "status":  "archived"
+    },
+    {
+        "id":  2616,
+        "exercice_id":  100032,
+        "value":  5616,
+        "status":  "published"
+    },
+    {
+        "id":  2617,
+        "exercice_id":  100034,
+        "value":  5617,
+        "status":  "archived"
+    },
+    {
+        "id":  2618,
+        "exercice_id":  100036,
+        "value":  5618,
+        "status":  "published"
+    },
+    {
+        "id":  2619,
+        "exercice_id":  100038,
+        "value":  5619,
+        "status":  "archived"
+    },
+    {
+        "id":  2620,
+        "exercice_id":  100040,
+        "value":  5620,
+        "status":  "published"
+    },
+    {
+        "id":  2621,
+        "exercice_id":  100042,
+        "value":  5621,
+        "status":  "archived"
+    },
+    {
+        "id":  2622,
+        "exercice_id":  100044,
+        "value":  5622,
+        "status":  "published"
+    },
+    {
+        "id":  2623,
+        "exercice_id":  100046,
+        "value":  5623,
+        "status":  "archived"
+    },
+    {
+        "id":  2624,
+        "exercice_id":  100048,
+        "value":  5624,
+        "status":  "published"
+    },
+    {
+        "id":  2625,
+        "exercice_id":  100050,
+        "value":  5625,
+        "status":  "archived"
+    },
+    {
+        "id":  2626,
+        "exercice_id":  100052,
+        "value":  5626,
+        "status":  "published"
+    },
+    {
+        "id":  2627,
+        "exercice_id":  100054,
+        "value":  5627,
+        "status":  "archived"
+    },
+    {
+        "id":  2628,
+        "exercice_id":  100056,
+        "value":  5628,
+        "status":  "published"
+    },
+    {
+        "id":  2629,
+        "exercice_id":  100058,
+        "value":  5629,
+        "status":  "archived"
+    },
+    {
+        "id":  2630,
+        "exercice_id":  100060,
+        "value":  5630,
+        "status":  "published"
+    },
+    {
+        "id":  2631,
+        "exercice_id":  100062,
+        "value":  5631,
+        "status":  "archived"
+    },
+    {
+        "id":  2632,
+        "exercice_id":  100064,
+        "value":  5632,
+        "status":  "published"
+    },
+    {
+        "id":  2633,
+        "exercice_id":  100066,
+        "value":  5633,
+        "status":  "archived"
+    },
+    {
+        "id":  2634,
+        "exercice_id":  100068,
+        "value":  5634,
+        "status":  "published"
+    },
+    {
+        "id":  2635,
+        "exercice_id":  100070,
+        "value":  5635,
+        "status":  "archived"
+    },
+    {
+        "id":  2636,
+        "exercice_id":  100072,
+        "value":  5636,
+        "status":  "published"
+    },
+    {
+        "id":  2637,
+        "exercice_id":  100074,
+        "value":  5637,
+        "status":  "archived"
+    },
+    {
+        "id":  2638,
+        "exercice_id":  100076,
+        "value":  5638,
+        "status":  "published"
+    },
+    {
+        "id":  2639,
+        "exercice_id":  100078,
+        "value":  5639,
+        "status":  "archived"
+    },
+    {
+        "id":  2640,
+        "exercice_id":  100080,
+        "value":  5640,
+        "status":  "published"
+    },
+    {
+        "id":  2641,
+        "exercice_id":  100082,
+        "value":  5641,
+        "status":  "archived"
+    },
+    {
+        "id":  2642,
+        "exercice_id":  100084,
+        "value":  5642,
+        "status":  "published"
+    },
+    {
+        "id":  2643,
+        "exercice_id":  100086,
+        "value":  5643,
+        "status":  "archived"
+    },
+    {
+        "id":  2644,
+        "exercice_id":  100088,
+        "value":  5644,
+        "status":  "published"
+    },
+    {
+        "id":  2645,
+        "exercice_id":  100090,
+        "value":  5645,
+        "status":  "archived"
+    },
+    {
+        "id":  2646,
+        "exercice_id":  100092,
+        "value":  5646,
+        "status":  "published"
+    },
+    {
+        "id":  2647,
+        "exercice_id":  100094,
+        "value":  5647,
+        "status":  "archived"
+    },
+    {
+        "id":  2648,
+        "exercice_id":  100096,
+        "value":  5648,
+        "status":  "published"
+    },
+    {
+        "id":  2649,
+        "exercice_id":  100098,
+        "value":  5649,
+        "status":  "archived"
+    },
+    {
+        "id":  2650,
+        "exercice_id":  100100,
+        "value":  5650,
+        "status":  "published"
+    },
+    {
+        "id":  2651,
+        "exercice_id":  100102,
+        "value":  5651,
+        "status":  "archived"
+    },
+    {
+        "id":  2652,
+        "exercice_id":  100104,
+        "value":  5652,
+        "status":  "published"
+    },
+    {
+        "id":  2653,
+        "exercice_id":  100106,
+        "value":  5653,
+        "status":  "archived"
+    },
+    {
+        "id":  2654,
+        "exercice_id":  100108,
+        "value":  5654,
+        "status":  "published"
+    },
+    {
+        "id":  2655,
+        "exercice_id":  100110,
+        "value":  5655,
+        "status":  "archived"
+    },
+    {
+        "id":  2656,
+        "exercice_id":  100112,
+        "value":  5656,
+        "status":  "published"
+    },
+    {
+        "id":  2657,
+        "exercice_id":  100114,
+        "value":  5657,
+        "status":  "archived"
+    },
+    {
+        "id":  2658,
+        "exercice_id":  100116,
+        "value":  5658,
+        "status":  "published"
+    },
+    {
+        "id":  2659,
+        "exercice_id":  100118,
+        "value":  5659,
+        "status":  "archived"
+    },
+    {
+        "id":  2660,
+        "exercice_id":  100120,
+        "value":  5660,
+        "status":  "published"
+    },
+    {
+        "id":  2661,
+        "exercice_id":  100122,
+        "value":  5661,
+        "status":  "archived"
+    },
+    {
+        "id":  2662,
+        "exercice_id":  100124,
+        "value":  5662,
+        "status":  "published"
+    },
+    {
+        "id":  2663,
+        "exercice_id":  100126,
+        "value":  5663,
+        "status":  "archived"
+    },
+    {
+        "id":  2664,
+        "exercice_id":  100128,
+        "value":  5664,
+        "status":  "published"
+    },
+    {
+        "id":  2665,
+        "exercice_id":  100130,
+        "value":  5665,
+        "status":  "archived"
+    },
+    {
+        "id":  2666,
+        "exercice_id":  100132,
+        "value":  5666,
+        "status":  "published"
+    },
+    {
+        "id":  2667,
+        "exercice_id":  100134,
+        "value":  5667,
+        "status":  "archived"
+    },
+    {
+        "id":  2668,
+        "exercice_id":  100136,
+        "value":  5668,
+        "status":  "published"
+    },
+    {
+        "id":  2669,
+        "exercice_id":  100138,
+        "value":  5669,
+        "status":  "archived"
+    },
+    {
+        "id":  2670,
+        "exercice_id":  100140,
+        "value":  5670,
+        "status":  "published"
+    },
+    {
+        "id":  2671,
+        "exercice_id":  100142,
+        "value":  5671,
+        "status":  "archived"
+    },
+    {
+        "id":  2672,
+        "exercice_id":  100144,
+        "value":  5672,
+        "status":  "published"
+    },
+    {
+        "id":  2673,
+        "exercice_id":  100146,
+        "value":  5673,
+        "status":  "archived"
+    },
+    {
+        "id":  2674,
+        "exercice_id":  100148,
+        "value":  5674,
+        "status":  "published"
+    },
+    {
+        "id":  2675,
+        "exercice_id":  100150,
+        "value":  5675,
+        "status":  "archived"
+    },
+    {
+        "id":  2676,
+        "exercice_id":  100152,
+        "value":  5676,
+        "status":  "published"
+    },
+    {
+        "id":  2677,
+        "exercice_id":  100154,
+        "value":  5677,
+        "status":  "archived"
+    },
+    {
+        "id":  2678,
+        "exercice_id":  100156,
+        "value":  5678,
+        "status":  "published"
+    },
+    {
+        "id":  2679,
+        "exercice_id":  100158,
+        "value":  5679,
+        "status":  "archived"
+    },
+    {
+        "id":  2680,
+        "exercice_id":  100160,
+        "value":  5680,
+        "status":  "published"
+    },
+    {
+        "id":  2681,
+        "exercice_id":  100162,
+        "value":  5681,
+        "status":  "archived"
+    },
+    {
+        "id":  2682,
+        "exercice_id":  100164,
+        "value":  5682,
+        "status":  "published"
+    },
+    {
+        "id":  2683,
+        "exercice_id":  100166,
+        "value":  5683,
+        "status":  "archived"
+    },
+    {
+        "id":  2684,
+        "exercice_id":  100168,
+        "value":  5684,
+        "status":  "published"
+    },
+    {
+        "id":  2685,
+        "exercice_id":  100170,
+        "value":  5685,
+        "status":  "archived"
+    },
+    {
+        "id":  2686,
+        "exercice_id":  100172,
+        "value":  5686,
+        "status":  "published"
+    },
+    {
+        "id":  2687,
+        "exercice_id":  100174,
+        "value":  5687,
+        "status":  "archived"
+    },
+    {
+        "id":  2688,
+        "exercice_id":  100176,
+        "value":  5688,
+        "status":  "published"
+    },
+    {
+        "id":  2689,
+        "exercice_id":  100178,
+        "value":  5689,
+        "status":  "archived"
+    },
+    {
+        "id":  2690,
+        "exercice_id":  100180,
+        "value":  5690,
+        "status":  "published"
+    },
+    {
+        "id":  2691,
+        "exercice_id":  100182,
+        "value":  5691,
+        "status":  "archived"
+    },
+    {
+        "id":  2692,
+        "exercice_id":  100184,
+        "value":  5692,
+        "status":  "published"
+    },
+    {
+        "id":  2693,
+        "exercice_id":  100186,
+        "value":  5693,
+        "status":  "archived"
+    },
+    {
+        "id":  2694,
+        "exercice_id":  100188,
+        "value":  5694,
+        "status":  "published"
+    },
+    {
+        "id":  2695,
+        "exercice_id":  100190,
+        "value":  5695,
+        "status":  "archived"
+    },
+    {
+        "id":  2696,
+        "exercice_id":  100192,
+        "value":  5696,
+        "status":  "published"
+    },
+    {
+        "id":  2697,
+        "exercice_id":  100194,
+        "value":  5697,
+        "status":  "archived"
+    },
+    {
+        "id":  2698,
+        "exercice_id":  100196,
+        "value":  5698,
+        "status":  "published"
+    },
+    {
+        "id":  2699,
+        "exercice_id":  100198,
+        "value":  5699,
+        "status":  "archived"
+    },
+    {
+        "id":  2700,
+        "exercice_id":  100200,
+        "value":  5700,
+        "status":  "published"
+    },
+    {
+        "id":  2701,
+        "exercice_id":  100202,
+        "value":  5701,
+        "status":  "archived"
+    },
+    {
+        "id":  2702,
+        "exercice_id":  100204,
+        "value":  5702,
+        "status":  "published"
+    },
+    {
+        "id":  2703,
+        "exercice_id":  100206,
+        "value":  5703,
+        "status":  "archived"
+    },
+    {
+        "id":  2704,
+        "exercice_id":  100208,
+        "value":  5704,
+        "status":  "published"
+    },
+    {
+        "id":  2705,
+        "exercice_id":  100210,
+        "value":  5705,
+        "status":  "archived"
+    },
+    {
+        "id":  2706,
+        "exercice_id":  100212,
+        "value":  5706,
+        "status":  "published"
+    },
+    {
+        "id":  2707,
+        "exercice_id":  100214,
+        "value":  5707,
+        "status":  "archived"
+    },
+    {
+        "id":  2708,
+        "exercice_id":  100216,
+        "value":  5708,
+        "status":  "published"
+    },
+    {
+        "id":  2709,
+        "exercice_id":  100218,
+        "value":  5709,
+        "status":  "archived"
+    },
+    {
+        "id":  2710,
+        "exercice_id":  100220,
+        "value":  5710,
+        "status":  "published"
+    },
+    {
+        "id":  2711,
+        "exercice_id":  100222,
+        "value":  5711,
+        "status":  "archived"
+    },
+    {
+        "id":  2712,
+        "exercice_id":  100224,
+        "value":  5712,
+        "status":  "published"
+    },
+    {
+        "id":  2713,
+        "exercice_id":  100226,
+        "value":  5713,
+        "status":  "archived"
+    },
+    {
+        "id":  2714,
+        "exercice_id":  100228,
+        "value":  5714,
+        "status":  "published"
+    },
+    {
+        "id":  2715,
+        "exercice_id":  100230,
+        "value":  5715,
+        "status":  "archived"
+    },
+    {
+        "id":  2716,
+        "exercice_id":  100232,
+        "value":  5716,
+        "status":  "published"
+    },
+    {
+        "id":  2717,
+        "exercice_id":  100234,
+        "value":  5717,
+        "status":  "archived"
+    },
+    {
+        "id":  2718,
+        "exercice_id":  100236,
+        "value":  5718,
+        "status":  "published"
+    },
+    {
+        "id":  2719,
+        "exercice_id":  100238,
+        "value":  5719,
+        "status":  "archived"
+    },
+    {
+        "id":  2720,
+        "exercice_id":  100240,
+        "value":  5720,
+        "status":  "published"
+    },
+    {
+        "id":  2721,
+        "exercice_id":  100242,
+        "value":  5721,
+        "status":  "archived"
+    },
+    {
+        "id":  2722,
+        "exercice_id":  100244,
+        "value":  5722,
+        "status":  "published"
+    },
+    {
+        "id":  2723,
+        "exercice_id":  100246,
+        "value":  5723,
+        "status":  "archived"
+    },
+    {
+        "id":  2724,
+        "exercice_id":  100248,
+        "value":  5724,
+        "status":  "published"
+    },
+    {
+        "id":  2725,
+        "exercice_id":  100250,
+        "value":  5725,
+        "status":  "archived"
+    },
+    {
+        "id":  2726,
+        "exercice_id":  100252,
+        "value":  5726,
+        "status":  "published"
+    },
+    {
+        "id":  2727,
+        "exercice_id":  100254,
+        "value":  5727,
+        "status":  "archived"
+    },
+    {
+        "id":  2728,
+        "exercice_id":  100256,
+        "value":  5728,
+        "status":  "published"
+    },
+    {
+        "id":  2729,
+        "exercice_id":  100258,
+        "value":  5729,
+        "status":  "archived"
+    },
+    {
+        "id":  2730,
+        "exercice_id":  100260,
+        "value":  5730,
+        "status":  "published"
+    },
+    {
+        "id":  2731,
+        "exercice_id":  100262,
+        "value":  5731,
+        "status":  "archived"
+    },
+    {
+        "id":  2732,
+        "exercice_id":  100264,
+        "value":  5732,
+        "status":  "published"
+    },
+    {
+        "id":  2733,
+        "exercice_id":  100266,
+        "value":  5733,
+        "status":  "archived"
+    },
+    {
+        "id":  2734,
+        "exercice_id":  100268,
+        "value":  5734,
+        "status":  "published"
+    },
+    {
+        "id":  2735,
+        "exercice_id":  100270,
+        "value":  5735,
+        "status":  "archived"
+    },
+    {
+        "id":  2736,
+        "exercice_id":  100272,
+        "value":  5736,
+        "status":  "published"
+    },
+    {
+        "id":  2737,
+        "exercice_id":  100274,
+        "value":  5737,
+        "status":  "archived"
+    },
+    {
+        "id":  2738,
+        "exercice_id":  100276,
+        "value":  5738,
+        "status":  "published"
+    },
+    {
+        "id":  2739,
+        "exercice_id":  100278,
+        "value":  5739,
+        "status":  "archived"
+    },
+    {
+        "id":  2740,
+        "exercice_id":  100280,
+        "value":  5740,
+        "status":  "published"
+    },
+    {
+        "id":  2741,
+        "exercice_id":  100282,
+        "value":  5741,
+        "status":  "archived"
+    },
+    {
+        "id":  2742,
+        "exercice_id":  100284,
+        "value":  5742,
+        "status":  "published"
+    },
+    {
+        "id":  2743,
+        "exercice_id":  100286,
+        "value":  5743,
+        "status":  "archived"
+    },
+    {
+        "id":  2744,
+        "exercice_id":  100288,
+        "value":  5744,
+        "status":  "published"
+    },
+    {
+        "id":  2745,
+        "exercice_id":  100290,
+        "value":  5745,
+        "status":  "archived"
+    },
+    {
+        "id":  2746,
+        "exercice_id":  100292,
+        "value":  5746,
+        "status":  "published"
+    },
+    {
+        "id":  2747,
+        "exercice_id":  100294,
+        "value":  5747,
+        "status":  "archived"
+    },
+    {
+        "id":  2748,
+        "exercice_id":  100296,
+        "value":  5748,
+        "status":  "published"
+    },
+    {
+        "id":  2749,
+        "exercice_id":  100298,
+        "value":  5749,
+        "status":  "archived"
+    },
+    {
+        "id":  2750,
+        "exercice_id":  100000,
+        "value":  5750,
+        "status":  "published"
+    },
+    {
+        "id":  2751,
+        "exercice_id":  100002,
+        "value":  5751,
+        "status":  "archived"
+    },
+    {
+        "id":  2752,
+        "exercice_id":  100004,
+        "value":  5752,
+        "status":  "published"
+    },
+    {
+        "id":  2753,
+        "exercice_id":  100006,
+        "value":  5753,
+        "status":  "archived"
+    },
+    {
+        "id":  2754,
+        "exercice_id":  100008,
+        "value":  5754,
+        "status":  "published"
+    },
+    {
+        "id":  2755,
+        "exercice_id":  100010,
+        "value":  5755,
+        "status":  "archived"
+    },
+    {
+        "id":  2756,
+        "exercice_id":  100012,
+        "value":  5756,
+        "status":  "published"
+    },
+    {
+        "id":  2757,
+        "exercice_id":  100014,
+        "value":  5757,
+        "status":  "archived"
+    },
+    {
+        "id":  2758,
+        "exercice_id":  100016,
+        "value":  5758,
+        "status":  "published"
+    },
+    {
+        "id":  2759,
+        "exercice_id":  100018,
+        "value":  5759,
+        "status":  "archived"
+    },
+    {
+        "id":  2760,
+        "exercice_id":  100020,
+        "value":  5760,
+        "status":  "published"
+    },
+    {
+        "id":  2761,
+        "exercice_id":  100022,
+        "value":  5761,
+        "status":  "archived"
+    },
+    {
+        "id":  2762,
+        "exercice_id":  100024,
+        "value":  5762,
+        "status":  "published"
+    },
+    {
+        "id":  2763,
+        "exercice_id":  100026,
+        "value":  5763,
+        "status":  "archived"
+    },
+    {
+        "id":  2764,
+        "exercice_id":  100028,
+        "value":  5764,
+        "status":  "published"
+    },
+    {
+        "id":  2765,
+        "exercice_id":  100030,
+        "value":  5765,
+        "status":  "archived"
+    },
+    {
+        "id":  2766,
+        "exercice_id":  100032,
+        "value":  5766,
+        "status":  "published"
+    },
+    {
+        "id":  2767,
+        "exercice_id":  100034,
+        "value":  5767,
+        "status":  "archived"
+    },
+    {
+        "id":  2768,
+        "exercice_id":  100036,
+        "value":  5768,
+        "status":  "published"
+    },
+    {
+        "id":  2769,
+        "exercice_id":  100038,
+        "value":  5769,
+        "status":  "archived"
+    },
+    {
+        "id":  2770,
+        "exercice_id":  100040,
+        "value":  5770,
+        "status":  "published"
+    },
+    {
+        "id":  2771,
+        "exercice_id":  100042,
+        "value":  5771,
+        "status":  "archived"
+    },
+    {
+        "id":  2772,
+        "exercice_id":  100044,
+        "value":  5772,
+        "status":  "published"
+    },
+    {
+        "id":  2773,
+        "exercice_id":  100046,
+        "value":  5773,
+        "status":  "archived"
+    },
+    {
+        "id":  2774,
+        "exercice_id":  100048,
+        "value":  5774,
+        "status":  "published"
+    },
+    {
+        "id":  2775,
+        "exercice_id":  100050,
+        "value":  5775,
+        "status":  "archived"
+    },
+    {
+        "id":  2776,
+        "exercice_id":  100052,
+        "value":  5776,
+        "status":  "published"
+    },
+    {
+        "id":  2777,
+        "exercice_id":  100054,
+        "value":  5777,
+        "status":  "archived"
+    },
+    {
+        "id":  2778,
+        "exercice_id":  100056,
+        "value":  5778,
+        "status":  "published"
+    },
+    {
+        "id":  2779,
+        "exercice_id":  100058,
+        "value":  5779,
+        "status":  "archived"
+    },
+    {
+        "id":  2780,
+        "exercice_id":  100060,
+        "value":  5780,
+        "status":  "published"
+    },
+    {
+        "id":  2781,
+        "exercice_id":  100062,
+        "value":  5781,
+        "status":  "archived"
+    },
+    {
+        "id":  2782,
+        "exercice_id":  100064,
+        "value":  5782,
+        "status":  "published"
+    },
+    {
+        "id":  2783,
+        "exercice_id":  100066,
+        "value":  5783,
+        "status":  "archived"
+    },
+    {
+        "id":  2784,
+        "exercice_id":  100068,
+        "value":  5784,
+        "status":  "published"
+    },
+    {
+        "id":  2785,
+        "exercice_id":  100070,
+        "value":  5785,
+        "status":  "archived"
+    },
+    {
+        "id":  2786,
+        "exercice_id":  100072,
+        "value":  5786,
+        "status":  "published"
+    },
+    {
+        "id":  2787,
+        "exercice_id":  100074,
+        "value":  5787,
+        "status":  "archived"
+    },
+    {
+        "id":  2788,
+        "exercice_id":  100076,
+        "value":  5788,
+        "status":  "published"
+    },
+    {
+        "id":  2789,
+        "exercice_id":  100078,
+        "value":  5789,
+        "status":  "archived"
+    },
+    {
+        "id":  2790,
+        "exercice_id":  100080,
+        "value":  5790,
+        "status":  "published"
+    },
+    {
+        "id":  2791,
+        "exercice_id":  100082,
+        "value":  5791,
+        "status":  "archived"
+    },
+    {
+        "id":  2792,
+        "exercice_id":  100084,
+        "value":  5792,
+        "status":  "published"
+    },
+    {
+        "id":  2793,
+        "exercice_id":  100086,
+        "value":  5793,
+        "status":  "archived"
+    },
+    {
+        "id":  2794,
+        "exercice_id":  100088,
+        "value":  5794,
+        "status":  "published"
+    },
+    {
+        "id":  2795,
+        "exercice_id":  100090,
+        "value":  5795,
+        "status":  "archived"
+    },
+    {
+        "id":  2796,
+        "exercice_id":  100092,
+        "value":  5796,
+        "status":  "published"
+    },
+    {
+        "id":  2797,
+        "exercice_id":  100094,
+        "value":  5797,
+        "status":  "archived"
+    },
+    {
+        "id":  2798,
+        "exercice_id":  100096,
+        "value":  5798,
+        "status":  "published"
+    },
+    {
+        "id":  2799,
+        "exercice_id":  100098,
+        "value":  5799,
+        "status":  "archived"
+    },
+    {
+        "id":  2800,
+        "exercice_id":  100100,
+        "value":  5800,
+        "status":  "published"
+    },
+    {
+        "id":  2801,
+        "exercice_id":  100102,
+        "value":  5801,
+        "status":  "archived"
+    },
+    {
+        "id":  2802,
+        "exercice_id":  100104,
+        "value":  5802,
+        "status":  "published"
+    },
+    {
+        "id":  2803,
+        "exercice_id":  100106,
+        "value":  5803,
+        "status":  "archived"
+    },
+    {
+        "id":  2804,
+        "exercice_id":  100108,
+        "value":  5804,
+        "status":  "published"
+    },
+    {
+        "id":  2805,
+        "exercice_id":  100110,
+        "value":  5805,
+        "status":  "archived"
+    },
+    {
+        "id":  2806,
+        "exercice_id":  100112,
+        "value":  5806,
+        "status":  "published"
+    },
+    {
+        "id":  2807,
+        "exercice_id":  100114,
+        "value":  5807,
+        "status":  "archived"
+    },
+    {
+        "id":  2808,
+        "exercice_id":  100116,
+        "value":  5808,
+        "status":  "published"
+    },
+    {
+        "id":  2809,
+        "exercice_id":  100118,
+        "value":  5809,
+        "status":  "archived"
+    },
+    {
+        "id":  2810,
+        "exercice_id":  100120,
+        "value":  5810,
+        "status":  "published"
+    },
+    {
+        "id":  2811,
+        "exercice_id":  100122,
+        "value":  5811,
+        "status":  "archived"
+    },
+    {
+        "id":  2812,
+        "exercice_id":  100124,
+        "value":  5812,
+        "status":  "published"
+    },
+    {
+        "id":  2813,
+        "exercice_id":  100126,
+        "value":  5813,
+        "status":  "archived"
+    },
+    {
+        "id":  2814,
+        "exercice_id":  100128,
+        "value":  5814,
+        "status":  "published"
+    },
+    {
+        "id":  2815,
+        "exercice_id":  100130,
+        "value":  5815,
+        "status":  "archived"
+    },
+    {
+        "id":  2816,
+        "exercice_id":  100132,
+        "value":  5816,
+        "status":  "published"
+    },
+    {
+        "id":  2817,
+        "exercice_id":  100134,
+        "value":  5817,
+        "status":  "archived"
+    },
+    {
+        "id":  2818,
+        "exercice_id":  100136,
+        "value":  5818,
+        "status":  "published"
+    },
+    {
+        "id":  2819,
+        "exercice_id":  100138,
+        "value":  5819,
+        "status":  "archived"
+    },
+    {
+        "id":  2820,
+        "exercice_id":  100140,
+        "value":  5820,
+        "status":  "published"
+    },
+    {
+        "id":  2821,
+        "exercice_id":  100142,
+        "value":  5821,
+        "status":  "archived"
+    },
+    {
+        "id":  2822,
+        "exercice_id":  100144,
+        "value":  5822,
+        "status":  "published"
+    },
+    {
+        "id":  2823,
+        "exercice_id":  100146,
+        "value":  5823,
+        "status":  "archived"
+    },
+    {
+        "id":  2824,
+        "exercice_id":  100148,
+        "value":  5824,
+        "status":  "published"
+    },
+    {
+        "id":  2825,
+        "exercice_id":  100150,
+        "value":  5825,
+        "status":  "archived"
+    },
+    {
+        "id":  2826,
+        "exercice_id":  100152,
+        "value":  5826,
+        "status":  "published"
+    },
+    {
+        "id":  2827,
+        "exercice_id":  100154,
+        "value":  5827,
+        "status":  "archived"
+    },
+    {
+        "id":  2828,
+        "exercice_id":  100156,
+        "value":  5828,
+        "status":  "published"
+    },
+    {
+        "id":  2829,
+        "exercice_id":  100158,
+        "value":  5829,
+        "status":  "archived"
+    },
+    {
+        "id":  2830,
+        "exercice_id":  100160,
+        "value":  5830,
+        "status":  "published"
+    },
+    {
+        "id":  2831,
+        "exercice_id":  100162,
+        "value":  5831,
+        "status":  "archived"
+    },
+    {
+        "id":  2832,
+        "exercice_id":  100164,
+        "value":  5832,
+        "status":  "published"
+    },
+    {
+        "id":  2833,
+        "exercice_id":  100166,
+        "value":  5833,
+        "status":  "archived"
+    },
+    {
+        "id":  2834,
+        "exercice_id":  100168,
+        "value":  5834,
+        "status":  "published"
+    },
+    {
+        "id":  2835,
+        "exercice_id":  100170,
+        "value":  5835,
+        "status":  "archived"
+    },
+    {
+        "id":  2836,
+        "exercice_id":  100172,
+        "value":  5836,
+        "status":  "published"
+    },
+    {
+        "id":  2837,
+        "exercice_id":  100174,
+        "value":  5837,
+        "status":  "archived"
+    },
+    {
+        "id":  2838,
+        "exercice_id":  100176,
+        "value":  5838,
+        "status":  "published"
+    },
+    {
+        "id":  2839,
+        "exercice_id":  100178,
+        "value":  5839,
+        "status":  "archived"
+    },
+    {
+        "id":  2840,
+        "exercice_id":  100180,
+        "value":  5840,
+        "status":  "published"
+    },
+    {
+        "id":  2841,
+        "exercice_id":  100182,
+        "value":  5841,
+        "status":  "archived"
+    },
+    {
+        "id":  2842,
+        "exercice_id":  100184,
+        "value":  5842,
+        "status":  "published"
+    },
+    {
+        "id":  2843,
+        "exercice_id":  100186,
+        "value":  5843,
+        "status":  "archived"
+    },
+    {
+        "id":  2844,
+        "exercice_id":  100188,
+        "value":  5844,
+        "status":  "published"
+    },
+    {
+        "id":  2845,
+        "exercice_id":  100190,
+        "value":  5845,
+        "status":  "archived"
+    },
+    {
+        "id":  2846,
+        "exercice_id":  100192,
+        "value":  5846,
+        "status":  "published"
+    },
+    {
+        "id":  2847,
+        "exercice_id":  100194,
+        "value":  5847,
+        "status":  "archived"
+    },
+    {
+        "id":  2848,
+        "exercice_id":  100196,
+        "value":  5848,
+        "status":  "published"
+    },
+    {
+        "id":  2849,
+        "exercice_id":  100198,
+        "value":  5849,
+        "status":  "archived"
+    },
+    {
+        "id":  2850,
+        "exercice_id":  100200,
+        "value":  5850,
+        "status":  "published"
+    },
+    {
+        "id":  2851,
+        "exercice_id":  100202,
+        "value":  5851,
+        "status":  "archived"
+    },
+    {
+        "id":  2852,
+        "exercice_id":  100204,
+        "value":  5852,
+        "status":  "published"
+    },
+    {
+        "id":  2853,
+        "exercice_id":  100206,
+        "value":  5853,
+        "status":  "archived"
+    },
+    {
+        "id":  2854,
+        "exercice_id":  100208,
+        "value":  5854,
+        "status":  "published"
+    },
+    {
+        "id":  2855,
+        "exercice_id":  100210,
+        "value":  5855,
+        "status":  "archived"
+    },
+    {
+        "id":  2856,
+        "exercice_id":  100212,
+        "value":  5856,
+        "status":  "published"
+    },
+    {
+        "id":  2857,
+        "exercice_id":  100214,
+        "value":  5857,
+        "status":  "archived"
+    },
+    {
+        "id":  2858,
+        "exercice_id":  100216,
+        "value":  5858,
+        "status":  "published"
+    },
+    {
+        "id":  2859,
+        "exercice_id":  100218,
+        "value":  5859,
+        "status":  "archived"
+    },
+    {
+        "id":  2860,
+        "exercice_id":  100220,
+        "value":  5860,
+        "status":  "published"
+    },
+    {
+        "id":  2861,
+        "exercice_id":  100222,
+        "value":  5861,
+        "status":  "archived"
+    },
+    {
+        "id":  2862,
+        "exercice_id":  100224,
+        "value":  5862,
+        "status":  "published"
+    },
+    {
+        "id":  2863,
+        "exercice_id":  100226,
+        "value":  5863,
+        "status":  "archived"
+    },
+    {
+        "id":  2864,
+        "exercice_id":  100228,
+        "value":  5864,
+        "status":  "published"
+    },
+    {
+        "id":  2865,
+        "exercice_id":  100230,
+        "value":  5865,
+        "status":  "archived"
+    },
+    {
+        "id":  2866,
+        "exercice_id":  100232,
+        "value":  5866,
+        "status":  "published"
+    },
+    {
+        "id":  2867,
+        "exercice_id":  100234,
+        "value":  5867,
+        "status":  "archived"
+    },
+    {
+        "id":  2868,
+        "exercice_id":  100236,
+        "value":  5868,
+        "status":  "published"
+    },
+    {
+        "id":  2869,
+        "exercice_id":  100238,
+        "value":  5869,
+        "status":  "archived"
+    },
+    {
+        "id":  2870,
+        "exercice_id":  100240,
+        "value":  5870,
+        "status":  "published"
+    },
+    {
+        "id":  2871,
+        "exercice_id":  100242,
+        "value":  5871,
+        "status":  "archived"
+    },
+    {
+        "id":  2872,
+        "exercice_id":  100244,
+        "value":  5872,
+        "status":  "published"
+    },
+    {
+        "id":  2873,
+        "exercice_id":  100246,
+        "value":  5873,
+        "status":  "archived"
+    },
+    {
+        "id":  2874,
+        "exercice_id":  100248,
+        "value":  5874,
+        "status":  "published"
+    },
+    {
+        "id":  2875,
+        "exercice_id":  100250,
+        "value":  5875,
+        "status":  "archived"
+    },
+    {
+        "id":  2876,
+        "exercice_id":  100252,
+        "value":  5876,
+        "status":  "published"
+    },
+    {
+        "id":  2877,
+        "exercice_id":  100254,
+        "value":  5877,
+        "status":  "archived"
+    },
+    {
+        "id":  2878,
+        "exercice_id":  100256,
+        "value":  5878,
+        "status":  "published"
+    },
+    {
+        "id":  2879,
+        "exercice_id":  100258,
+        "value":  5879,
+        "status":  "archived"
+    },
+    {
+        "id":  2880,
+        "exercice_id":  100260,
+        "value":  5880,
+        "status":  "published"
+    },
+    {
+        "id":  2881,
+        "exercice_id":  100262,
+        "value":  5881,
+        "status":  "archived"
+    },
+    {
+        "id":  2882,
+        "exercice_id":  100264,
+        "value":  5882,
+        "status":  "published"
+    },
+    {
+        "id":  2883,
+        "exercice_id":  100266,
+        "value":  5883,
+        "status":  "archived"
+    },
+    {
+        "id":  2884,
+        "exercice_id":  100268,
+        "value":  5884,
+        "status":  "published"
+    },
+    {
+        "id":  2885,
+        "exercice_id":  100270,
+        "value":  5885,
+        "status":  "archived"
+    },
+    {
+        "id":  2886,
+        "exercice_id":  100272,
+        "value":  5886,
+        "status":  "published"
+    },
+    {
+        "id":  2887,
+        "exercice_id":  100274,
+        "value":  5887,
+        "status":  "archived"
+    },
+    {
+        "id":  2888,
+        "exercice_id":  100276,
+        "value":  5888,
+        "status":  "published"
+    },
+    {
+        "id":  2889,
+        "exercice_id":  100278,
+        "value":  5889,
+        "status":  "archived"
+    },
+    {
+        "id":  2890,
+        "exercice_id":  100280,
+        "value":  5890,
+        "status":  "published"
+    },
+    {
+        "id":  2891,
+        "exercice_id":  100282,
+        "value":  5891,
+        "status":  "archived"
+    },
+    {
+        "id":  2892,
+        "exercice_id":  100284,
+        "value":  5892,
+        "status":  "published"
+    },
+    {
+        "id":  2893,
+        "exercice_id":  100286,
+        "value":  5893,
+        "status":  "archived"
+    },
+    {
+        "id":  2894,
+        "exercice_id":  100288,
+        "value":  5894,
+        "status":  "published"
+    },
+    {
+        "id":  2895,
+        "exercice_id":  100290,
+        "value":  5895,
+        "status":  "archived"
+    },
+    {
+        "id":  2896,
+        "exercice_id":  100292,
+        "value":  5896,
+        "status":  "published"
+    },
+    {
+        "id":  2897,
+        "exercice_id":  100294,
+        "value":  5897,
+        "status":  "archived"
+    },
+    {
+        "id":  2898,
+        "exercice_id":  100296,
+        "value":  5898,
+        "status":  "published"
+    },
+    {
+        "id":  2899,
+        "exercice_id":  100298,
+        "value":  5899,
+        "status":  "archived"
+    },
+    {
+        "id":  2900,
+        "exercice_id":  100000,
+        "value":  5900,
+        "status":  "published"
+    }
+]
