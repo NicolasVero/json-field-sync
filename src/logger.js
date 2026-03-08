@@ -48,7 +48,7 @@ function logSuccess(outputPath) {
 }
 
 function logWarningUsage() {
-    const message = `${color.orange}Usage:${color.reset} node src/merge-json.js <base.json> <patch.json> <out.json> <field> [matchKey]`;
+    const message = `${color.orange}Usage:${color.reset} node src/json-field-sync.js <base.json> <patch.json> <out.json> <field> [matchKey]`;
     console.log(message);
     writeToFile("WARN", message);
 }

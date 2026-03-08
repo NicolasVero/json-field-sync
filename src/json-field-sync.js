@@ -19,7 +19,7 @@ async function main() {
 	const base = parseJsonSafe(await fs.readFile(baseFile, "utf8"));
 	const patch = parseJsonSafe(await fs.readFile(patchFile, "utf8"));
 	
-	const patchById = new Map(
+	const patchByKey  = new Map(
 		patch
 			.filter((item) => Object.prototype.hasOwnProperty.call(item, matchKey))
 			.map((item) => [item[matchKey], item])
@@ -29,7 +29,7 @@ async function main() {
 	
 	const result = base.map((item) => {
 		const keyValue = item[matchKey];
-		const match = patchById.get(keyValue);
+		const match = patchByKey .get(keyValue);
 		if (!match || !(field in match)) {
 			return item;
 		}

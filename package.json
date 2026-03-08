@@ -1,10 +1,10 @@
 {
-  "name": "json-modifier",
+  "name": "json-field-sync",
   "version": "1.0.0",
-  "description": "Minimal script to replace JSON field by id",
-  "main": "src/merge-json.js",
+  "description": "Minimal script to replace a JSON field by matching key between two files",
+  "main": "src/json-field-sync.js",
   "scripts": {
-    "merge": "node src/merge-json.js examples/base.json examples/patch.json examples/result.json value"
+    "merge": "node src/json-field-sync.js examples/base.json examples/patch.json examples/result.json value"
   },
   "keywords": ["json", "merge", "nodejs"],
   "license": "MIT"
