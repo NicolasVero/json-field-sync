@@ -6,6 +6,30 @@ function parseJsonSafe(raw) {
 	return JSON.parse(cleaned);
 }
 
+function parseSlashSeparated(value) {
+	return String(value)
+		.split("/")
+		.map((item) => item.trim())
+		.filter(Boolean);
+}
+
+function buildCompositeKey(item, keys) {
+	const values = [];
+
+	for (const key of keys) {
+		if (!Object.prototype.hasOwnProperty.call(item, key)) {
+			return null;
+		}
+		values.push(item[key]);
+	}
+
+	return JSON.stringify(values);
+}
+
+function buildCompositeKeyDisplay(item, keys) {
+	return keys.map((key) => String(item[key])).join("/");
+}
+
 async function main() {
 	const [baseFile, patchFile, outFile, field, matchKey = "id"] = process.argv.slice(2);
 	
@@ -15,26 +39,37 @@ async function main() {
 	}
 
 	setLogFileFromOutput(outFile);
-	const fields = String(field).split("/").map((value) => value.trim()).filter(Boolean);
+	const fields = parseSlashSeparated(field);
+	const matchKeys = parseSlashSeparated(matchKey);
 
-	if (fields.length === 0) {
+	if (fields.length === 0 || matchKeys.length === 0) {
 		logWarningUsage();
 		process.exit(1);
 	}
+
+	const matchKeyLabel = matchKeys.join("/");
 	
 	const base = parseJsonSafe(await fs.readFile(baseFile, "utf8"));
 	const patch = parseJsonSafe(await fs.readFile(patchFile, "utf8"));
 	
 	const patchByKey  = new Map(
 		patch
-			.filter((item) => Object.prototype.hasOwnProperty.call(item, matchKey))
-			.map((item) => [item[matchKey], item])
+			.map((item) => {
+				const key = buildCompositeKey(item, matchKeys);
+				return key === null ? null : [key, item];
+			})
+			.filter(Boolean)
 	);
 
 	let replacements = 0;
 	
 	const result = base.map((item) => {
-		const keyValue = item[matchKey];
+		const keyValue = buildCompositeKey(item, matchKeys);
+		if (keyValue === null) {
+			return item;
+		}
+
+		const keyValueDisplay = buildCompositeKeyDisplay(item, matchKeys);
 		const match = patchByKey .get(keyValue);
 		if (!match) {
 			return item;
@@ -50,7 +85,7 @@ async function main() {
 
 			replacements += 1;
 			updated = true;
-			logReplacement(keyValue, item[currentField], match[currentField], currentField, matchKey);
+			logReplacement(keyValueDisplay, item[currentField], match[currentField], currentField, matchKeyLabel);
 			nextItem[currentField] = match[currentField];
 		}
 
@@ -59,7 +94,7 @@ async function main() {
 	
 	await fs.writeFile(outFile, `${JSON.stringify(result, null, 2)}\n`, "utf8");
 	if (replacements === 0) {
-		logWarning(`0 remplacement. Check 'field' (${field}) and 'matchKey' (${matchKey}).`);
+		logWarning(`0 remplacement. Check 'field' (${field}) and 'matchKey' (${matchKeyLabel}).`);
 	}
 	logSuccess(outFile);
 }
