@@ -15,6 +15,12 @@ async function main() {
 	}
 
 	setLogFileFromOutput(outFile);
+	const fields = String(field).split("/").map((value) => value.trim()).filter(Boolean);
+
+	if (fields.length === 0) {
+		logWarningUsage();
+		process.exit(1);
+	}
 	
 	const base = parseJsonSafe(await fs.readFile(baseFile, "utf8"));
 	const patch = parseJsonSafe(await fs.readFile(patchFile, "utf8"));
@@ -30,13 +36,25 @@ async function main() {
 	const result = base.map((item) => {
 		const keyValue = item[matchKey];
 		const match = patchByKey .get(keyValue);
-		if (!match || !(field in match)) {
+		if (!match) {
 			return item;
 		}
 
-		replacements += 1;
-		logReplacement(keyValue, item[field], match[field], field, matchKey);
-		return { ...item, [field]: match[field] };
+		const nextItem = { ...item };
+		let updated = false;
+
+		for (const currentField of fields) {
+			if (!(currentField in match)) {
+				continue;
+			}
+
+			replacements += 1;
+			updated = true;
+			logReplacement(keyValue, item[currentField], match[currentField], currentField, matchKey);
+			nextItem[currentField] = match[currentField];
+		}
+
+		return updated ? nextItem : item;
 	});
 	
 	await fs.writeFile(outFile, `${JSON.stringify(result, null, 2)}\n`, "utf8");
